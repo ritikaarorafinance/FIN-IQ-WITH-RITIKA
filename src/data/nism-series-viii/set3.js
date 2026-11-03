@@ -1,0 +1,20 @@
+const set3 = [
+  {"id":"q1","q":"Vega measures change in delta with respect to change in price of the underlying asset - State True or False?","options":["True","False"],"answer":1,"explanation":"Vega is a measure of the sensitivity of an option price to changes in market volatility. Gamma measures change in delta with respect to change in price of the underlying asset."},
+  {"id":"q2","q":"A short position in a PUT option can be closed out by taking a long position in a same PUT option - State True or False?","options":["False","True"],"answer":1,"explanation":"A short position in a PUT option can be closed out by taking a long position in a same PUT option with same exercise date and exercise price."},
+  {"id":"q3","q":"On final settlement, the buyer/holder of the option will recognise the favourable difference received from the seller/writer as:","options":["Income","Expense","Loan","Amortization"],"answer":0,"explanation":"On exercise of the option, the buyer/ holder will receive favourable difference, between the final settlement price as on the exercise/expiry date and the strike price, which will be recognised as INCOME."},
+  {"id":"q4","q":"Higher the strike price, the premium on call option will decrease - State True or False?","options":["True","False"],"answer":0,"explanation":"The option premium consists of two components - intrinsic value and time value. The intrinsic value of an option refers to the amount by which the option is in-the-money i.e., the amount an option buyer will realize, before adjusting for premium paid, if he exercises the option instantly. Therefore, only in-the-money options have intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value. The higher strike price would have a lower call option premium because the intrinsic value is low or nil."},
+  {"id":"q5","q":"Trading is allowed in Indian Equity markets in which of the following:","options":["Index Options","Individual stock options","Individual stock futures options","All of the above"],"answer":3,"explanation":"Trading is allowed in Indian Equity markets in Index Options, Individual stock options, and Individual stock futures options."},
+  {"id":"q6","q":"Can the exercise price be more than or equal to or less than the cash spot price?","options":["Yes","No"],"answer":0,"explanation":"Exercise price means the Strike price for which options can be traded. For eg. - A scrip ABC has options trading at a strike price of Rs 100. The spot price (market price) can easily fluctuate as per market sentiments and can be above, below or equal to Rs. 100."},
+  {"id":"q7","q":"Can one sell assets in futures market even if he does not own any such assets?","options":["Yes","No"],"answer":0,"explanation":"One can sell futures / options etc. even if he does not own the underlying asset."},
+  {"id":"q8","q":"On the derivatives futures market, if there are three series of one, two and three months open at a point of time, how many calendar spread can one have?","options":["1","2","3","4"],"answer":2,"explanation":"The three calendar spreads can be between months 1 and 2, 2 and 3 and 1 and 3."},
+  {"id":"q9","q":"All the 50 stocks of NSE Nifty index are equally weighed while calculating the index - State True or False?","options":["True","False"],"answer":1,"explanation":"The NIFTY 50 index is a well-diversified 50 stock index reflecting overall market conditions. NIFTY 50 Index is computed using free float market capitalization method. As per this method, the 50 stocks of Nifty are weighed as per their free float market capitalisation. For eg - Reliance Industry has a weightage of appx 7% where as Wipro has a weightage of appx 2% in Nifty."},
+  {"id":"q10","q":"What does a Call Option give the buyer?","options":["The right but not the obligation","The obligation but not the right","Gives both the right and obligation","Neither the right nor the obligation"],"answer":0,"explanation":"A call option gives the buyer the right but not the obligation to buy from the seller an underlying at the prevailing market price on or before the expiry date."}
+];
+export default set3;
+
+
+
+
+
+
+

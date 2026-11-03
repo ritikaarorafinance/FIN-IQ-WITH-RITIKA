@@ -1,0 +1,7 @@
+[[redirects]]
+  # Rewrite all requests to index.html so React Router can handle them.
+  # Status 200 means the URL in the browser stays the same (it is NOT a redirect).
+  from = "/*"
+  to = "/index.html"
+  status = 200
+

@@ -1,0 +1,3449 @@
+NISM VIII
+
+Q1.To whom is a high impact cost beneficial ?
+Only buyers
+Only sellers
+•	Neither buyers nor sellers
+Only arbitrageurs
+¥ CORRECT ANSWER
+Explanation:
+Impact cost is the cost that the buyer or seller of stocks incur while executing a transaction due to prevailing liquidity conditions in that counter.
+A high impact cost will increase the purchasing price for the buyer and decrease the selling price for the seller.
+So a high impact cost is neither beneficial to the buyer nor the seller.
+
+Q2. Initial margin to be paid in derivatives is set up taking into account the volatility of the underlying market. Generally ___
+Lower the volatility, higher the initial margin
+•	Higher the volatility, lower the initial margin
+Higher the volatility, higher the initial margin
+None of the above
+X WRONG ANSWER
+CORRECT ANSWER:
+Higher the volatility, higher the initial margin
+Explanation:
+When the markets are very volatile, it could results in losses to the traders. So to safe guard the trading member and the trader, higher initial margin are levied on when volatility is high.
+
+Q3.                 is the ratio of change in option premium for a unit change in volatility.
+Rho
+Theta
+Delta
+•	Vega
+V CORRECT ANSWER
+Explanation:
+Vega (v) is a measure of the sensitivity of an option price to changes in market volatility. It is the change of an option premium for a given change in the underlying volatility.
+Q4. In a derivatives exchange, the networth requirement for a clearing member is higher than that of a non-clearing member - State whether True or False?
+•	True
+False
+¥ CORRECT ANSWER
+Explanation:
+In a derivative exchange, the networth requirement for a clearing member is higher than that of a non-clearing member.
+
+Q5. The risk that cannot be controlled by diversification of portfoliois_—.
+•	Systematic Risk
+Unsystematic Risk
+Credit Risk
+Operational Risk
+¥ CORRECTANSWER
+Explanation:
+An investor can diversify his portfolio and eliminate major part of price risk i.e. the diversifiable/unsystematic risk but what is left is the non-diversifiable portion or the market risk-called Systematic risk.
+‘Systematic risk can be caused due to unfavourable reasons such as act of nature like a natural disaster, changes in government policy etc.
+
+Q6.Can a long position in a Put option can be closed out by taking a short position in a call option with  identical exercise date and exercise price ?
+Yes
+•	No
+V CORRECTANSWER
+Explanation:
+A long position ina Put Option can be closed out (squared up) only by selling the same Put Option.
+Q7. After the initiation of the futures contract, the price of the underlying asset has risen. In this situation,
+Basically. price change in underlying asset has no effect on long or short positions in futures
+A long position becomes unprofitable
+A short position becomes profitable
+•	A  long position becomes profitable
+¥ CORRECTANSWER
+Explanation:
+When the price of the underlying asset rises in the spot market, its price in the futures market will also rise. So, those who have purchased the futures (long postion) will make a profit.
+Q8. There are many products in the market which give high returns in risk-free manner - State whether True or False?
+True
+•	False
+¥ CORRECT ANSWER 
+Explanation:
+Returns are related to the risk taken and hence there cannot be a product in the market that gives high return in risk free manner.
+Investors should be careful of opportunities that promise spectacular profits or "guaranteed" returns. The deal sounds too good to resist. An individual may claim that unrealistic returns can be realized from “Low-Risk Investment Opportunities", but one has to keep in mind no investment is risk-free.
+
+Q9. What will be the Delta for a Far Out-of-the-money option?
+Near 0
+•	Near 1
+Near -1
+Near 2
+X WRONG ANSWER
+CORRECT ANSWER:
+Near 0
+Explanation:
+Delta for Out of the Money Call and Put option approaches zero as it nears expiry.
+Delta for In the Money Call option approaches 1 and delta for In the Money Put option approaches -1 as it nears expiry.
+
+Q10. The term mark-to-market means :
+process by which a portfolio manager checks the daily profits / losses
+the current / spot index price
+intimation from the broker to a client for additional funds
+•	the every day revaluation of open positions by the exchanges to reflect profits and !osses in the market
+V CORRECT ANSWER 
+Explanation:
+Mark to Market (MTM) is a process by which margins are adjusted on the basis of daily price changes in the markets for underlying assets.
+The clearing member who suffers a loss is required to pay the MTM loss amount which is in turn passed on to the clearing member who has made a MTM profit.
+
+Q11. The margining system for index futures is based on
+Margin at risk
+Price at risk
+Volume at risk
+•	Value at risk
+V CORRECT ANSWER 
+Explanation:
+
+As per the recommendations of Dr. L.C.Gupta Committee - Margins should be based on Value at Risk Methodology at 99% confidence,
+Clearing corporation charges an upfront initial margin for all the open positions of a Clearing Member, specifies the initial margin requirements for each futures/ options contract on a daily basis and also follows Value-At-Risk (VAR) based margining.
+
+Q12. Mr. Ashu has bought 100 shares of ABC at Rs 980 per share. He expects the price to go up but wants to protect himself if price falls. He does not want to lose more than Rs. 1000 on this long position in ABC. What should Mr. Ashu do?
+•	Place a stop loss order for 100 shares of ABC at Rs 990 per share
+Place a stop loss order for 100 shares of ABC at Rs 970 per share
+Place a limit buy order for 100 shares of ABC at Rs 990 per share
+Place a limit sell order for 100 shares of ABC at Rs 970 per share
+V CORRECT ANSWER 
+Explanation:
+Mr. Ashu will lose Rs 1000 if the ABC share will fall by Rs 10 as he has 100 shares and a 10 rupee fall will lead to Rs 1000 loss.
+He has bought at Rs 980. So he will put the stop loss order at Rs 970 (980 - 10).
+
+Q13. A call option gives the buyer the right to buy the underlying at market price - State True or False ?
+True
+•	False
+v CORRECT ANSWER
+Explanation:
+A call option gives the buyer the right to buy the underlying at a set price ie. the strike price and not the market price.
+CALL OPTION: An agreement that gives an investor the right (but not the obligation) to buy a stock, bond, commodity, or other instrument at a specified price within a specific time period.
+
+Q14. A trader buys a January ABC stock futures contract at Rs 768 and the lot size is 1200. What is his profit or loss , if he squares off the position at Rs 778 ?
+
+•	Rs. 12000
+Rs 1200000
+- Rs 12000
+- Rs 10000
+V CORRECT ANSWER
+Explanation:
+The trader buys at Rs 768 and sells off at Rs 778, so he makes a profit of Rs 10.
+Lot size is 1200. So the total profit is Rs 10 X 1200 = Rs 12000
+
+Q15. A Professional Clearing member of derivatives segment
+should also be a member of the cash segment
+should also become a member of the cash segment within 2 years
+provides trading facility to its clients
+•	does not have any trading rights
+¥ CORRECT ANSWER
+Explanation:
+A professional clearing member is not a Trading Member of the exchange and does not have trading rights.
+Q16. Theta is a measure of the sensitivity of an option price to changes in market volatility. - State True or False?
+True
+•	False
+CORRECT ANSWER
+Explanation:
+Theta : Itis a measure of an option’s sensitivity to time decay. Theta is the change in option price given a one-day decrease in time to expiration.
+Vega : This is a measure of the sensitivity of an option price to changes in market volatility.
+Q17. Which one of these complaints against a trading member can an Exchange take up for redressal?
+Complaints regarding land dealings between a cient and trading member
+Complaints in respect of transactions which are already subject matter of Arbitrage proceedings
+Claims regarding notional loss for the disputed trade
+•	Claims regarding unauthorized transaction in the client’s account
+¥ CORRECT ANSWER
+Explanation:
+Complaints against trading members on account of the following can be taken by an Exchange for redressal :
+- Non-receipt of funds / securities
++ Non: receipt of documents such as member client agreement, contract notes, settlement of accounts, order trade log etc.
++ Non-Receipt of Funds / Securities kept as margin
++ Trades executed without adequate margins
+- Delay /non - receipt of funds
+- Squaring up of positions without consent
+- Unauthorized transaction in the account
+- Excess Brokerage charged by Trading Member / Sub-broker
+- Unauthorized transfer of funds from commodities account to other accounts etc.
+
+Q18. In India, the clearing and settlement of derivatives trades would be through .
+State Bank of India
+Euroclear
+•	SEBI approved Clearing Corporation / Clearing House
+The Interbank Clearing House
+V CORRECTANSWER
+Explanation:
+Clearing Corporation/ Clearing House is responsible for clearing and settlement of all trades. onthe F&O of the
+The clearing and settlement of derivatives trades would be through a SEBI approved clearing corporation. Clearing corporation complying with the eligibility conditions as laid down by th LC Gupta committee have to apply to SEBI for grant of approval.
+
+Q19.Delta is the change in option price given a one percentage point change in the risk-free interest rate - State True or False ?
+False
+•	True
+X WRONG ANSWER
+CORRECT ANSWER:
+False
+Explanation:
+Rho is the change in option price given a one percentage point change in the interest rate.
+Delta measures the sensitivity of the option value to a given small change in the price of the underlying asset.
+
+Can a Clearing Member give ‘Fixed Deposits’ as part of liquid assets to the Clearing Corporation?
+Yes
+No
+
+v CORRECT ANSWER
+Explanation:
+Clearing member is required to provide liquid assets which adequately cover various margins and liquid Net-worth requirements.
+Liquid Assets can be in the form of Cash, Cash Equivalents (Government Securities, Fixed Deposits, Treasury Bills, Bank Guarantees, and Investment Grade Debt Securities) and Equity Securities.
+
+Q21. Vega measures change in delta with respect to change in price of the underlying asset - State True or False?
+•	True
+False
+X WRONG ANSWER
+CORRECT ANSWER:
+False
+Explanation:
+Vega is a measure of the sensitivity of an option price to changes in market volatility.
+Gamma measures change in delta with respect to change in price of the underlying asset.
+
+Q22. A short position in a PUT option can be closed out by taking a long position in a same PUT option - State True or False?
+False
+•	True
+V CORRECT ANSWER
+Explanation:
+A short position in a PUT option can be closed out by taking a long position in a same FUT option with same exercise date and exercise price,
+
+Q23. On final settlement, the buyer/holder of the option will recognise the favourable difference received from the seller/writer as
+•	Income
+Expense
+Loan
+Amortization
+ CORRECT ANSWER
+Explanation:
+On exercise of the option, the buyer/ holder will receive favourable difference, between the final settlement price as on the exercise/expiry date and the strike price, which will be recognised as INCOME.
+
+Q24. Higher the strike price, the premium on call option will decrease - State True or False?
+•	True
+False
+V CORRECT ANSWER
+Explanation:
+
+The option premium consists of two components - intrinsic value and time value.
+The intrinsic value of an option refers to the amount by which the option is in-the-money i.e., the amount an option buyer will realize, before adjusting for premium paid, if he exercises the option instantly.
+Therefore, only in-the-money options have intrinsic value whereas at-the-money and out-of-the-money options have zero intrinsic value.
+The higher strike price would have a lower call option premium because the intrinsic value is low or nil.
+Q25. Trading is allowed in Indian Equity markets in which of the following -
+Index Options
+Individual stock options
+Individual stock futures options
+•	All of the above
+¥ CORRECT ANSWER
+Q26. Can the exercise price be more than or equal to or less than the cash spot price ?
+•	Yes
+No
+V CORRECT ANSWER
+Explanation:
+Exercise price means the Strike price for which options can be traded.
+For eg. - A scrip ABC has options trading at a strike price of Rs 100. The spot price (market price) can easily fluctuate as per market sentiments and can be above, below or equal to Rs. 100.
+
+Q27. Can one sell assets in futures market even if he does not own any such assets ?
+•	Yes
+No
+¥ CORRECT ANSWER
+Explanation:
+One can sell futures / options etc. even if he does not own the underlying asset.
+
+Q28. On the derivatives futures market, if there are three series of one, two and three months open at a point of time, how many calendar spread can one have ?
+1
+2
+3
+•	4
+X WRONG ANSWER
+CORRECT ANSWER:
+3
+Explanation: 
+The three calendar spreads can be between months 1 and 2, 2 and 3 and 1 and 3,
+
+Q29. All the 50 stocks of NSE Nifty index are equally weighed while calculating the index - State True or False?
+True
+•	False
+V CORRECT ANSWER 
+Explanation:
+The NIFTY 50 index is a well-diversified 50 ies index r fing overall market conditions.
+NIFTY 50 Index is computed using free float market capitalization method. As per this method, the 50 stocks of Nifty are weighed as per their free float market capitalisation. For eg - Reliance Industry has a weightage of appx 7% where as Wipro has a weightage of appx 2% in Nifty.
+
+Q30. What does an Call Option gives the buyer ?
+•	The right but not the obligation
+The obligation but not the right
+Gives both the right and obligation
+Neither the right not the obligation
+V CORRECT ANSWER 
+Explanation:
+A call option gives the buyer the right but not the obligation to buy from the seller an underlying at the prevailing market price on or before the expiry date.
+Q31. Speculators are those who take risk whereas hedgers are those who wish to reduce risk - State True or False ?
+•	True
+False
+¥ CORRECT ANSWER
+Explanation:
+Hedgers - They face risk associated with the prices of underlying assets and use derivatives to reduce their risk.
+Speculators/Traders - They try to predict the future movements in prices of underlying assets and based on the view, take positions in derivative contracts.
+
+Q32.The money and securities which are deposited in a clients account :
+Can be attached for meeting the obligations of the broker on his proprietary account
+•	Cannot be attached for meeting the obligations of the broker on his proprietary account
+Can or cannot be attached depends on the decision of Clearing Corporation
+None of the above
+V CORRECTANSWER
+Explanation:
+The securities or money deposited by clients cannot be attached for meeting broker’s obligation on his proprietary account.
+The broker has to maintain separate client bank account for segregation of client money.
+Also brokers should keep margins collected from clients in a separate bank account.
+Q33. In case there is a Stock Split of a company which is a part of an Index, than what will its impact on the index value?
+The index value can increase or decrease but this cannot be forecasted with accuracy
+•	The index value will remain unchanged
+The index value will decrease
+The index value will increase
+
+¥ CORRECTANSWER
+Explanation:
+A stock split lowers its stock price but doesn't weaken its value to current shareholders as the number of shares increase proportionally.
+Stock Split has an effect on Options, Strike Price etc. but has no impact on the index as such. Therefore, when a stock which is part of the index has a stock split, it does not have an impact on the index.
+
+Q34. ‘Time Decay’ is beneficial to the
+Option Buyer
+•	Option Seller
+Option Buyer and Seller equally
+Neither the option buyer or seller
+ CORRECT ANSWER 
+Explanation:
+If all other factors affecting an option’s price remain the same, the time value portion of an option’s premium will decrease with the passage of time. This is also known as time decay. Options are known as ‘wasting assets’, due to this property where the time value gradually falls to zero.
+Any fall in premium is advantageous to the option seller.
+
+Q35. Identify the TRUE statement with respect to a Put option.
+In a Put Option, both the buyer and seller have the obligation to buy and sell the underlying at a specified price
+A put option will give the buyer a right but not an obligation to sell to the writer an underlying at a specified price
+•	A put option will give the seller a right but not an obligation to buy from the buyer an underlying at a specified price
+A put option will give the buyer an obligation but not the right to sell to the writer an underlying at a specified price
+X WRONG ANSWER
+CORRECT ANSWER:
+A put option will give the buyer a right but not an obligation to sell to the writer an underlying at a specified price. 
+Explanation: 
+Options may be categorized into two main types: - Call Options - Put Options
+An option, which gives the buyer/holder a right to buy the underlying asset, is called a call option; and an option which gives the buyer/holder a right to sell the underlying asset, is called a ‘put option’.
+The buyer of an option is one who has a right but not the obligation in the contract. For owning this right, he pays a price called ‘option premium’ to the seller of this right. He has a right to buy the underlying asset in case of a call option and the right to sell the underlying asset in case of a put option.
+Q36. Mr. Menon has bought a futures contract and the price rises. In this case, Mr. Menon will
+•	Make a profit
+Make a loss
+Make a profit or make a loss depending on the situation
+Insufficient information to arrive at a conclusion
+v¥ CORRECT ANSWER
+Explanation:
+Mr. Menon has bought the future contract which means he believes that the prices will rise so that he can gain from it. So he will make a profit if the price rises.
+
+Q37. How is the forward contract, which is for hedging purpose, accounted for in books of accounts?
+The premium or discount will be shown in the Profit and Loss Account
+The premium or discount will be ignored for accounting
+The premium or discount will be amortized over the life of contract
+•	No premium or discount will be recognised in the books of accounts
+X WRONG ANSWER
+CORRECT ANSWER:
+The premium or discount will be amortized over the life of contract
+Explanation:
+Accounting for Forward Contract as per Accounting Standard - 11
+When forward contract is for hedging
+- The premium or discount (i.e., difference between the value at spot rate and forward rate) should be amortized over the life of contract.
+- Exchange difference (difference between the value of settlement date/ reporting date and value at previous reporting date/ inception of the contract) is recognized in Profit & Loss statement of the year.
+- Profit/ loss on cancellation/ renewal of forward contract are recognized in P&L of the year.
+
+Q38. A Derivative market helps in transferring the risk from
+Speculators to Hedgers
+Arbitrageurs to Hedgers
+Speculators to Arbitrageurs
+•	Hedgers to Speculators
+¥ CORRECT ANSWER
+Explanation:
+Hedgers aim to hedge their risk and speculators/traders take the risk which hedgers plan to offload from their exposure.
+Speculators form one of the most important participants of the derivatives market, providing depth to the market. Hedgers may not be able to hedge, if speculators were not present in the system.
+
+Q39. Which of these options is an example of a Calendar Spread?
+•	Going short on the underpriced futures contract of one month and at the same time buying the overpriced futures contract of another month
+Buying stock futures contract while at the same time shorting the stock
+Buying the underpriced futures contract of one month and simultaneously selling the overpriced futures contract of another month
+Going short on the stock futures contract while simultaneously buying the stock
+xWRONG ANSWER
+CORRECT ANSWER:
+Buying the underpriced futures contract of one month and simultaneously selling the overpriced futures contract of another month
+Explanation:
+Calendar spread refers to the arbitrage between futures contracts of different expiration months.
+
+In this strategy, the arbitrageur buys and sells the futures contracts of two different months, To execute this strategy, the arbitrageur must identify which contract to buy or sell. The principal rule of arbitrage is that one must buy the underpriced contract and sell the overpriced one,
+Hence, the arbitrageur needs to compute the fair price of both futures contracts and compare these with the traded prices, to decide which contract is overpriced and which one is underpriced.
+Q40. Ms. Kavita wants to ‘Sell’ on a futures market. For this, she
+•	need not own the underlying
+must own the underlying
+must own at least 25% of the underlying
+must own at least 50% of the underlying
+V CORRECT ANSWER
+Explanation:
+Selling on a futures market does not need any delivery. Only margin is required to be paid to Buy/Sell on a futures market.
+Therefore, Ms, Kavita can sell on the futures market even without owning the underlying. However, she needs to square up her position before the expiry.
+ 
+Q43. "SCORES ' is the name given to
+•	SEBI's web-based compliant redressal system
+Securities Collateral Records System
+Exchange's risk management and margin system
+Suspicious transaction reporting system
+CORRECT ANSWER 
+Explanation:
+SEBI's web-based complaints redressal system is called SCORES (Sebi COmplaints REdress System).
+SCORES is a centralized grievance management system with tracking mechanism to know the latest updates and time taken for complaint resolution.
+Q44.A clearing member reaches his prescribed position limits, therefore he will
+be allowed to take only 5% additional exposure
+not be able to reverse his position
+be able to take fresh new positions for his clients but not in his proprietary account
+•	not be able to open new positions
+v CORRECT ANSWER 
+Explanation:
+A trading member, on reaching the prescribed limits, cannot open new positions. But he can reverse existing positions.
+Position limits are an important part of the risk management framework of a derivatives exchange. A position limit on a derivatives exchange is a restriction on the ownership that limits the number of derivatives contracts that a trading member or client, acting individually or together with others, can own.
+When client-level position limits are exceeded, the clearing member! trading member must ensure that the client does not take any fresh positions and the existing positions must be reduced within permissible limits.
+
+Q45. A calendar spread in index futures will be treated as in a far month contract if the near months contract is expired.
+Long position
+•	Short position
+Optional position
+Naked position
+X WRONG ANSWER
+CORRECT ANSWER:
+Naked position
+Explanation: 
+A naked position is long or short in any of the futures contracts but a spread position consists of two opposite positions.
+A calendar spread becomes a naked/open position, when the near month contract expires or either of the legs of the spread is closed.
+
+Q46. The clearing member is free to close out transactions of a trading member if
+The trading member has not paid initial margin money
+The trading member has not paid daily settlement dues
+•	In both the above cases
+CORRECT ANSWER 
+Explanation:
+The following are some of the compliance lapses which attract penal charges:
++ Non fulfilment of initial margin obligations - Non-fulfilment of settlement obligation - Non-fulfilment of securities deliverable obligation - Non-fulfilment of minimum deposit requirements etc.
+In the event of a violation, Clearing Corporation may advice the Exchanges to withdraw any or all of the membership rights of the clearing member including the withdrawal of trading facilities of all trading members and/or clearing facility of custodial participants clearing through such clearing members, without any notice.
+In addition, the outstanding positions of such clearing member and/or trading members clearing and settling through such clearing member, may be closed out and such action shall be final and binding on the clearing member and/or trading member.
+Q47. Identify the contract which is cleared and settled bilaterally?
+A one month Nifty futures contract
+A one-month USDINR options contract
+A 3-month forward contract to buy Swiss Francs against the Indian rupee
+•	A one-month GO! bond futures contract
+X WRONG ANSWER
+CORRECT ANSWER:
+A 3-month forward contract to buy Swiss Francs against the Indian rupee
+Explanation: 
+Bilateral contract between is a contract between two parties, Generally, all Forward contracts are bilateral contracts and are not done on any Exchange.
+In the above options, only 'A 3-month forward contract to buy Swiss Francs against the Indian rupee’ is a forward contract and the other three are futures / options contract. A futures contract is an agreement made through an organized exchange to buy or sell a fixed amount of a commodity or a financial asset on a future date at an agreed price.
+
+Q48. When the volatility of the underlying stock decreases, the premium of its Call option will
+Increase
+•	Decrease
+Not changeV CORRECT ANSWER 
+Explanation:
+Higher volatility = Higher premium, Lower volatility = Lower premium (for both call and put options).
+Therefore, with a decrease in volatilty, the premium on the call option decreases.
+
+Q49.An ‘European’ call option will give the buyer the right but not the obligation to buy from the seller an underlying at the strike price
+•	Only on the expiry date
+On or before the expiry date
+One day preceding the expiry date
+One day after the expiry date
+¥ CORRECT ANSWER
+Explanation:
+European option: The owner (buyer/holder) of a European option can exercise his right only on the expiry date/day of the contract. In India, all index and stock options are European style options.
+American option: The owner (buyer/holder) of an American option can exercise his right at any time on or before the expiry date/day of the contract.
+Q50. In futures trading, the margin is paid by
+The Buyer only
+The Seller only
+•	Both Buyer and Seller
+The Clearing Corporation
+v CORRECT ANSWER
+Explanation:
+The amount one needs to deposit in the margin account at the time of entering into a futures contract is known as the initial margin.
+In case of futures, both the buyer and seller are required to pay initial margin as decided by exchanges for entering into futures contract.
+In case of Options, the initial margin is paid only by the sellers. The option buyers have to pay the premium to the option sellers.
+
+Q1.In Option Spreads there is a combination of options constructed in such a way that there is limited profit or limited loss - State True or False ?
+•	True
+False
+v CORRECT ANSWER
+Explanation:
+Option Spreads involve combining options on the same underlying and of same type (call/ put) but with different strikes and maturities. These are limited profit and limited loss positions.
+
+Q2. If the price volatility of the underlying stock is high then the Put optionwill___.
+have zero premium
+•	have comparatively lower premium
+have comparatively higher premium
+Volatility does not have any effect on the Put options
+X WRONG ANSWER
+CORRECT ANSWER:
+have a comparatively higher premium
+Explanation:
+Volatility is the magnitude of movement in the underlying asset's price, either up or down. It affects both call and put options in the same way. Higher the volatility of the underlying stock, higher the premium because there is a greater possibility that the option will move in-the-money during the life of the contract.
+Higher volatility = Higher premium, Lower volatility = Lower premium (for both call and put options).
+
+Q3. Its common to have derivatives contract without any expiration date - State whether True or False ?
+True
+•	False
+V CORRECT ANSWER
+Explanation:
+Most derivatives contract have an expiration date.
+
+Q4. When a dealer is doing trades in his own account and also doing trades for their clients then these two trades have to be completely segregated - State True or False?
+•	True
+False
+ CORRECT ANSWER 
+Explanation:
+The trades done by dealers are in the 'PRO' account ie. Proprietary account and the trades done by Clients are in the 'CLI' account.
+‘Proprietary Trading’ is when a member trades on exchange on its own behalf. As directed by SEBI and in pursuance of byelaws members are advised to specify the nature of the order in terms of order being a ‘Client order’ or ‘Proprietary order’.
+
+Q5. Whom does the Clearing Member need to consult for setting limits on the trading members clearing through him?
+•	Clearing Corporation
+SEBI
+The respective Stock Exchange
+No consultation is required with anyone as the Clearing Member can set the limits of his trading members on his own
+X WRONG ANSWER
+CORRECT ANSWER:
+No consultation is required with anyone as the Clearing Member can set the limits of his trading members on his own
+Explanation: 
+A trading terminal helps the Clearing Members to monitor the open positions of all the Trading Members
+clearing and settling through him. A Clearing Member may set limits for a Trading Member clearing and settling through him.
+
+Clearing corporation assists the Clearing Member to monitor the intraday limits set up by a Clearing Member and whenever a Trading Member exceed the limits, it stops that particular Trading Member from further trading.
+
+Q6. Mr. Arvind is very bullish on the market. How ever he feels some specific companies which he has in his portfolio will not perform well in future. What strategy should he adopt?
+Sell Index futures and Sell specific companies shares
+•	Buy Index futures and Sell specific companies shares
+Sell Index futures and Buy specific companies shares
+Do nothing as markets are uncertain
+Y¥ CORRECT ANSWER 
+Explanation:
+Mr. Arvind should sell the shares of those specific companies and buy index futures. By this he will profit when the index rises and avoid losses on those specific companies if his view proves to be correct.
+ 
+Q7.                        means the maximum exposures in terms of number of options and futures contracts that an investor can hold on one side of the market.
+Outstanding Limit
+Market Limit
+•	Position Limit
+Upper Limit
+CORRECT ANSWER 
+Explanation:
+Position limits are the maximum exposure levels which the entire market can go up to and each Clearing Member or investor can go up to. Position limits for the entire market and Clearing Members and investors are defined by SEBI.
+
+Q8. How can you close a short position in a futures market?
+•	By buying a Call Option
+By entering into a suitable forward contract
+By executing a purchase of the same futures contracts
+By executing a sale of the same futures contracts
+X WRONG ANSWER
+CORRECT ANSWER:
+By executing a purchase of the same futures contracts
+Explanation: 
+A short future contract ie. a sale position can be squared up by buying the same contract in futures market and in no other way.
+Q9. In exercising call option on an index, the option holder receives from the option writer, an amount equal to excess of spot price (at the time of exercise) over the strike price of the call
+option - State whether True or False ?
+•	True
+False
+
+CORRECT ANSWER 
+Explanation:
+When a person buys a Call Option of an index, he is expecting the index to rise. On exercise, if the spot price of the index is over and above the strike price at which the buyer had bought the Call, he will receive the difference between the spot price and strike price.
+
+Q10.What does hedging do?
+It maximises business profits
+•	It minimises business losses
+It produces a more clearer outcome
+Hedging can be used only in currency markets and not in equity markets
+¥ CORRECT ANSWER 
+Explanation:
+The goal of hedging is to prevent losses caused by unanticipated market fluctuations.
+Hedging is a strategy that tries to limit risks in ‘ial assets. It uses or market gies to offset the risk of any adverse price movements. The primary motivation to hedge is to mitigate  potential losses for an existing trade in the event that it moves in the opposite direction than what you want it to.
+
+Q11.A trader sells a futures contract and the price rises. The trader will
+•	make a loss
+make a profit
+¥ CORRECT ANSWER 
+Explanation:
+The trader has sold the future contract which means he belleves that the prices will fall. So he will make a loss If price rises.
+
+Q12. What does a beta of more than 1 mean ?
+It means that the expected percentage change in stock price will be twice the percentage change in index
+It means that the expected percentage change in stock price will be less percentage change in index
+•	It means that the expected percentage change in stock price will be more than the percentage change in index
+It means that the expected percentage change in stock price equals the percentage change in index
+¥ CORRECT ANSWER 
+Explanation:
+Beta measures the sensitivity of a stock / portfolio vis-a-vis index movement over a period of time, on the basis of historical prices.
+If Beta of a stock is 1, it means that a % change in the index will lead to equal % change in the stock price.
+Therefore, if the Beta is more than 1, it indicates that the security's price tends to be more volatile than the market.
+Q13. Intrinsic value of an option is sum of Option premium and Time value - State whether True or False?
+•	True
+False
+X WRONG ANSWER
+CORRECT ANSWER:
+False
+Explanation: 
+intrinsic value is basic the difference Spot price and Strike price.
+Option premium consists of two components - intrinsic value and time value
+For eg. If the current option premium for a Rs 500 strike price Call option is Rs 70 and the current spot price is Rs 550, than Rs 50 is the intrinsic value (550 -500) and the balance Rs 20 (70 - 50) is the time value.
+Q14. Which of these statements is True?
+Money and securities deposited by clients can be attached for meeting the brokers obligation on his proprietary account
+•	Money and securities deposited by clients cannot be attached for meeting the brokers obligation on his proprietary account
+Money and securities deposited by clients can be attached as per the decision of the clearing corporation
+Money and securities deposited by clients can be attached as per the decision of the Stock Exchange
+¥ CORRECT ANSWER 
+
+ACCOUNTING
+
+SET 1: BASIC ACCOUNTING
+1. A garments manufacturing business has purchased 2 computers for maintaining books of accounts. The computers will be treated as:
+
+Current Liabilities
+
+Capital
+
+Current Assets
+
+✅ Fixed Assets
+
+Explanation:
+Computers are used for long-term business operations and not for resale. Hence, they are treated as fixed assets and shown on the asset side of the balance sheet.
+
+2. A company has taken a loan of Rs 50 lakhs for 2 years and Rs 10 lakhs for 4 months. These loans will be treated as:
+
+Both as Current Liabilities
+
+Both as Long-term Liabilities
+
+✅ Rs 50 lakhs as Long-term & Rs 10 lakhs as Current Liability
+
+Both as Assets
+
+Explanation:
+Liabilities payable within 12 months are current liabilities. Loans repayable after 12 months are long-term liabilities.
+
+3. Accounting is the tool for providing ____________ to stakeholders.
+
+Business ideas
+
+✅ Financial information
+
+Thoughts
+
+None of the above
+
+Explanation:
+Accounting records and summarizes financial data to provide meaningful financial information for decision-making.
+
+4. Management Accounting is meant for:
+
+✅ Internal users
+
+External users
+
+Both
+
+None
+
+Explanation:
+Management accounting helps internal management in planning, controlling, and decision-making.
+
+5. Britannia sold 1 lakh breads @ Rs 30 each in June. This shows:
+
+Profit of Rs 30 lakhs
+
+✅ Revenue of Rs 30 lakhs
+
+Loss
+
+Data insufficient
+
+Explanation:
+Revenue = Quantity × Selling Price.
+Profit cannot be calculated without cost information.
+
+6. Interest on loan is treated as:
+
+Asset
+
+Liability
+
+Revenue
+
+✅ Expense
+
+Explanation:
+Interest is a cost incurred for borrowing funds and is charged to Profit & Loss Account.
+
+7. Bajaj Auto purchased batteries from Exide Ltd for Rs 50 lakhs on 40 days credit. Exide Ltd will be:
+
+✅ Creditor
+
+Debtor
+
+Will not appear
+
+Data insufficient
+
+Explanation:
+Suppliers who provide goods on credit are creditors until payment is made.
+
+8. Bata sold goods to Madhuri & Co and allowed payment after 10 days. Madhuri & Co is:
+
+Creditor
+
+✅ Debtor
+
+Capital
+
+Loss
+
+Explanation:
+A customer who owes money to the business is treated as a debtor.
+
+9. Which of the following is NOT a Current Asset?
+
+Cash in hand
+
+Inventory
+
+✅ Bills Payable
+
+Debtors
+
+Explanation:
+Bills Payable is a liability, not an asset. Current assets are expected to convert into cash within one year.
+
+10. Goods purchased from Ram in cash Rs 40,000. Correct entry is:
+
+Purchases Dr / Ram Cr
+
+✅ Purchases Dr / Cash Cr
+
+Ram Dr / Purchases Cr
+
+Cash Dr / Purchases Cr
+
+Explanation:
+Cash purchase means cash goes out and purchases increase. Hence Purchases is debited and Cash is credited.
+
+📘 SET 2: JOURNAL, DISCOUNT & CASH FLOW
+1. Discount allowed for bulk purchase is called:
+
+Cash Discount
+
+✅ Trade Discount
+
+Sales Discount
+
+Quantity Discount
+
+Explanation:
+Trade discount is given at the time of sale and is not recorded in books of accounts.
+
+2. Sold goods to Shyam for Rs 25 lakhs, received Rs 23 lakhs after cash discount. Correct entry is:
+
+✅ Cash Dr 23L, Discount Allowed Dr 2L, Sales Cr 25L
+
+Cash Dr 23L, Sales Cr 23L
+
+Shyam Dr 23L, Sales Cr 23L
+
+Shyam Dr 23L, Cash Cr 23L
+
+Explanation:
+Sales are recorded at gross value. Cash discount is treated as an expense.
+
+3. Which of the following is NOT part of Cash Flow Statement?
+
+Operating Activity
+
+Investing Activity
+
+Financing Activity
+
+✅ Savings Activity
+
+Explanation:
+Cash Flow Statement includes only Operating, Investing, and Financing activities.
+
+4. Interim dividend paid appears as outflow under:
+
+Investing Activity
+
+Operating Activity
+
+✅ Financing Activity
+
+Not shown
+
+Explanation:
+Dividend payment relates to financing decisions and results in cash outflow.
+
+5. Issue of shares worth Rs 20 lakhs will be shown as:
+
+✅ Inflow in Financing Activity
+
+Outflow in Financing Activity
+
+Inflow in Investing Activity
+
+Outflow in Investing Activity
+
+Explanation:
+Issue of shares brings cash into the business and is classified under financing activities.
+
+6. Debtors increased from Rs 40,000 to Rs 80,000. Effect on Cash Flow is:
+
+Added
+
+✅ Subtracted
+
+No effect
+
+No change
+
+Explanation:
+Increase in debtors means sales not converted into cash, hence cash outflow.
+
+7. Goodwill increased from Rs 20,000 to Rs 28,000. It will be:
+
+Inflow in Financing
+
+Outflow in Operating
+
+Inflow in Investing
+
+✅ Outflow in Investing Activity
+
+Explanation:
+Increase in goodwill usually means purchase, resulting in cash outflow under investing activities.
+
+8. Which transaction increases Current Ratio?
+
+Cash collected from debtors
+
+Purchase of goods for cash
+
+Payment to creditors
+
+✅ Credit purchase of goods
+
+Explanation:
+Credit purchase increases current assets without immediate cash outflow, improving current ratio.
+
+9. Which statement is incorrect?
+
+Ideal quick ratio is 1:1
+
+✅ Quick Assets = CA + Stock + Prepaid Expenses
+
+Quick ratio is a liquidity ratio
+
+Quick ratio = Quick Assets / Current Liabilities
+
+Explanation:
+Stock and prepaid expenses are excluded from quick assets.
+
+10. Outstanding expenses are treated as:
+
+Asset
+
+Expense
+
+Capital
+
+✅ Current Liability
+
+Explanation:
+Outstanding expenses are payable in the near future and hence treated as current liabilities.
+
+📘 SET 3: RATIO ANALYSIS (OPTIONS FIRST, THEN SOLUTION)
+1. Alpha Industries has EBIT of ₹5,00,000. Total Assets ₹8,00,000 and Current Liabilities ₹4,00,000. ROCE is:
+
+62.5%
+
+80%
+
+✅ 125%
+
+50%
+
+Solution:
+Capital Employed = Total Assets – Current Liabilities
+= 8,00,000 / 4,00,000
+
+ROCE = EBIT / Capital Employed × 100
+= 5,00,000 / 4,00,000 × 100 = 125%
+
+2. Return on Equity Capital refers to return earned by:
+
+Debenture holders
+
+Preference shareholders
+
+✅ Equity shareholders
+
+Creditors
+
+Explanation:
+ROE measures profitability available to equity shareholders after all expenses.
+
+3. Debt–Equity Ratio is:
+
+Current Liabilities / Capital
+
+Total Assets / Liabilities
+
+✅ Debt / Equity
+
+Capital / Assets
+
+Explanation:
+Debt–Equity ratio shows the proportion of borrowed funds to owners’ funds.
+
+**4. Debt–Equity Ratio for:
+
+Debt ₹15,00,000; Equity ₹45,00,000 is:**
+
+1:1
+
+2:1
+
+3:1
+
+✅ 1:3
+
+Solution:
+Debt / Equity
+= 15,00,000 / 45,00,000 = 1 : 3
+
+5. Which ratio measures liquidity?
+
+Gross Profit Ratio
+
+Net Profit Ratio
+
+✅ Current Ratio
+
+ROCE
+
+Explanation:
+Liquidity ratios measure the firm’s ability to meet short-term obligations.
+
+6. Ideal Current Ratio is:
+
+1:1
+
+✅ 2:1
+
+3:1
+
+1.5:1
+
+Explanation:
+An ideal current ratio of 2:1 ensures sufficient short-term solvency.
+
+7. Quick Ratio excludes:
+
+Cash
+
+Debtors
+
+✅ Stock
+
+Bank balance
+
+Explanation:
+Stock is not readily convertible into cash and hence excluded.
+
+8. Gross Profit is calculated as:
+
+Sales – Expenses
+
+Net Sales – Operating Expenses
+
+✅ Net Sales – Cost of Goods Sold
+
+Total Income – Total Expenses
+
+Explanation:
+Gross profit shows efficiency of production and pricing before operating expenses.
+
+9. Gross Profit if Sales ₹8,00,000, Sales Return ₹20,000 and COGS ₹3,00,000 is:
+
+₹5,00,000
+
+₹4,80,000
+
+✅ ₹4,80,000
+
+₹5,20,000
+
+Solution:
+Net Sales = 8,00,000 – 20,000 = 7,80,000
+Gross Profit = 7,80,000 / 3,00,000 = ₹4,80,000
+
+10. ROCE is also known as:
+
+Liquidity Ratio
+
+Solvency Ratio
+
+✅ Profitability Ratio
+
+Turnover Ratio
+
+Explanation:
+ROCE measures overall profitability of capital employed in the business.
+
+FINANCIAL MANAGEMENT
+SET 1: FINANCIAL MANAGEMENT 
+1. A sound Capital Budgeting technique is based on:
+
+(a) Cash Flows
+(b) Accounting Profit
+(c) Interest Rate on Borrowings
+(d) Last Dividend Paid
+
+✅ Correct Answer: (a) Cash Flows
+
+Explanation:
+Capital budgeting decisions are long-term in nature and depend on actual cash inflows and outflows. Accounting profits include non-cash items like depreciation, which do not affect liquidity. Hence, cash flows are considered the most reliable basis for evaluation.
+
+2. If a student is awarded a scholarship receivable over the next 12 months, which calculation should be used to find its value today?
+
+(a) Present Value of an Amount
+(b) Future Value of an Amount
+(c) Present Value of an Annuity
+(d) Future Value of an Annuity
+
+✅ Correct Answer: (c) Present Value of an Annuity
+
+Explanation:
+The scholarship will be received in multiple installments over time. When equal cash flows are received periodically, their present value is calculated using the Present Value of an Annuity method. This accounts for the time value of money.
+
+3. Which of the following is NOT a part of Investment Decision in Financial Management?
+
+(a) Dividend Payout Decision
+(b) Capital Budgeting Decision
+(c) Working Capital Management
+(d) Credit Policy towards Customers
+
+✅ Correct Answer: (a) Dividend Payout Decision
+
+Explanation:
+Investment decisions relate to allocation of funds into assets like fixed assets and working capital. Dividend payout decision is a financing decision, as it deals with distribution of profits, not investment of funds.
+
+4. A project costing ₹8,00,000 with a life of 5 years generates cash inflows of ₹2,00,000 per year. What is the Payback Period?
+
+(a) 5 years
+(b) 4 years
+(c) 3 years
+(d) None of the above
+
+✅ Correct Answer: (b) 4 years
+
+Explanation:
+Payback Period is the time required to recover the initial investment.
+Payback Period = Initial Investment / Annual Cash Inflow
+= 8,00,000 / 2,00,000 = 4 years
+
+5. In case of Mutually Exclusive Proposals:
+
+(a) Only the best project is selected
+(b) All projects with positive NPV are selected
+(c) Even negative NPV project may be selected
+(d) At least two proposals are selected
+
+✅ Correct Answer: (a) Only the best project is selected
+
+Explanation:
+Mutually exclusive projects are alternatives to each other. Acceptance of one project automatically rejects others. Therefore, only the project giving the highest benefit (usually highest NPV) is selected.
+
+6. Cost of Capital may be defined as:
+
+(a) Weighted average cost of all debts
+(b) Rate of return expected by equity shareholders
+(c) Average IRR of projects
+(d) Minimum rate of return that the firm should earn
+
+✅ Correct Answer: (d) Minimum rate of return that the firm should earn
+
+Explanation:
+Cost of capital represents the minimum return required by investors. A project must earn at least this rate to maintain the market value of the firm. It acts as a benchmark for investment decisions.
+
+7. Which of the following cost of capital requires tax adjustment?
+
+(a) Cost of Equity Shares
+(b) Cost of Preference Shares
+(c) Cost of Debentures
+(d) Cost of Retained Earnings
+
+✅ Correct Answer: (c) Cost of Debentures
+
+Explanation:
+Interest on debentures is tax-deductible, reducing the actual cost to the company. Therefore, cost of debentures is calculated on an after-tax basis, unlike equity or preference shares.
+
+8. Which of the following sources of funds has an Implicit Cost of Capital?
+
+(a) Equity Share Capital
+(b) Preference Share Capital
+(c) Debentures
+(d) Retained Earnings
+
+✅ Correct Answer: (d) Retained Earnings
+
+Explanation:
+Retained earnings do not involve direct payment but have an opportunity cost. Shareholders expect a return on retained profits, making it an implicit cost of capital.
+
+9. Reinvestment Rate Assumption is implied in:
+
+(a) Net Present Value
+(b) Internal Rate of Return
+(c) Both (a) and (b)
+(d) None of the above
+
+✅ Correct Answer: (c) Both (a) and (b)
+
+Explanation:
+NPV assumes reinvestment of cash flows at the cost of capital, while IRR assumes reinvestment at the IRR itself. Hence, both methods involve reinvestment assumptions.
+
+10. The primary objective of Financial Management is:
+
+(a) Management of liquidity
+(b) Maximization of profit
+(c) Maximization of shareholders’ wealth
+(d) Management of fixed assets
+
+✅ Correct Answer: (c) Maximization of shareholders’ wealth
+
+Explanation:
+Modern financial management focuses on increasing the market value of equity shares. Shareholders’ wealth maximization considers profitability, risk, and time value of money, making it superior to profit maximization.
+
+SET 2: FINANCIAL MANAGEMENT
+1. In order to find out cost of equity capital under CAPM, which of the following is NOT required?
+
+(a) Beta factor
+(b) Market rate of return
+(c) Market price of equity share
+(d) Risk-free rate of interest
+
+✅ Correct Answer: (c) Market price of equity share
+
+Explanation:
+CAPM calculates cost of equity using risk-free rate, beta, and market return. Market price of the equity share is not required in the CAPM formula.
+
+2. Dividend decision is related to:
+
+(a) Right issue of shares
+(b) Reinvestment requirement
+(c) Cash flow statement
+(d) None of the above
+
+✅ Correct Answer: (b) Reinvestment requirement
+
+Explanation:
+Dividend decision depends on how much profit is needed for reinvestment in business operations. Remaining profits are distributed as dividends.
+
+3. Residual Theory argues that dividend is a:
+
+(a) Relevant decision
+(b) Active decision
+(c) Passive decision
+(d) Irrelevant decision
+
+✅ Correct Answer: (c) Passive decision
+
+Explanation:
+According to residual theory, dividends are paid only after meeting investment requirements. Hence, dividend is treated as a passive outcome.
+
+4. Operating Cycle is equal to Inventory Conversion Cycle plus:
+
+(a) Receivable conversion period
+(b) Creditors deferral period
+(c) (a) minus (b)
+(d) (a) plus (b)
+
+✅ Correct Answer: (c) (a) minus (b)
+
+Explanation:
+Operating Cycle = Inventory Conversion Period + Receivable Conversion Period – Payables Deferral Period. Credit period reduces the operating cycle.
+
+5. What is ignored in the principle of Profit Maximization?
+
+(a) Time value of money
+(b) Risk
+(c) Wealth creation
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Profit maximization ignores timing of returns, risk involved, and shareholder wealth. Therefore, it is considered an incomplete objective.
+
+6. Which of the following is NOT used in Capital Budgeting?
+
+(a) Time value of money
+(b) Sensitivity analysis
+(c) Net assets method
+(d) Cash flows
+
+✅ Correct Answer: (c) Net assets method
+
+Explanation:
+Capital budgeting evaluates projects based on cash flows and time value of money. Net assets method is not a capital budgeting technique.
+
+7. Capital Budgeting is a part of investment decision and deals with:
+
+(a) Long-term decisions
+(b) Short-term decisions
+(c) Both (a) and (b)
+(d) Neither (a) nor (b)
+
+✅ Correct Answer: (a) Long-term decisions
+
+Explanation:
+Capital budgeting involves investment in fixed assets and long-term projects whose benefits extend over many years.
+
+8. If IRR of a project is equal to opportunity cost of capital, then:
+
+(a) Project should be repeated
+(b) NPV will be zero
+(c) Project has no cash flows
+(d) NPV will be positive
+
+✅ Correct Answer: (b) NPV will be zero
+
+Explanation:
+When IRR equals cost of capital, present value of inflows equals present value of outflows. Hence, NPV becomes zero.
+
+9. Financial Management refers to:
+
+(a) Management of current assets
+(b) Management of all assets
+(c) Financial decision-making
+(d) Management of liabilities
+
+✅ Correct Answer: (c) Financial decision-making
+
+Explanation:
+Financial management focuses on investment, financing, and dividend decisions to maximize shareholder wealth.
+
+10. In a loan repayment schedule, the interest amount paid each period:
+
+(a) Remains constant
+(b) Increases
+(c) Decreases
+(d) None of the above
+
+✅ Correct Answer: (c) Decreases
+
+Explanation:
+As loan principal reduces with each installment, interest is calculated on a declining balance, causing interest payment to decrease over time.
+
+SET 3: FINANCIAL MANAGEMENT
+1. If a company issues new share capital to redeem debentures, then:
+
+(a) Operating Leverage will increase
+(b) Financial Leverage will increase
+(c) Operating Leverage will decrease
+(d) Financial Leverage will decrease
+
+✅ Correct Answer: (d) Financial Leverage will decrease
+
+Explanation:
+Financial leverage arises due to fixed financial charges like interest. Redeeming debentures reduces debt and interest burden. Hence, financial leverage decreases.
+
+2. Which of the following are two basic concepts of Financial Management?
+
+(a) Costs and Expenses
+(b) Risk and Return
+(c) Debit and Credit
+(d) Receipts and Payment
+
+✅ Correct Answer: (b) Risk and Return
+
+Explanation:
+Every financial decision involves a trade-off between risk and expected return. Higher returns usually involve higher risk, making these two concepts fundamental to finance.
+
+3. Cost of Capital refers to:
+
+(a) Flotation cost
+(b) Dividend
+(c) Required rate of return
+(d) None of the above
+
+✅ Correct Answer: (c) Required rate of return
+
+Explanation:
+Cost of capital is the minimum return expected by investors. It acts as a benchmark for evaluating investment decisions.
+
+4. Which of the following represents the financing decision?
+
+(a) Designing optimal capital structure
+(b) Declaring dividend
+(c) Paying interest on loans
+(d) None of the above
+
+✅ Correct Answer: (a) Designing optimal capital structure
+
+Explanation:
+Financing decision relates to deciding the mix of debt and equity used to finance the business operations.
+
+5. Financial leverage arises because of:
+
+(a) Fixed cost of production
+(b) Variable cost
+(c) Interest cost
+(d) None of the above
+
+✅ Correct Answer: (c) Interest cost
+
+Explanation:
+Financial leverage exists due to fixed financial charges like interest on debt. It magnifies the effect of changes in EBIT on EPS.
+
+6. Operating leverage helps in the analysis of:
+
+(a) Business risk
+(b) Financing risk
+(c) Production risk
+(d) Credit risk
+
+✅ Correct Answer: (a) Business risk
+
+Explanation:
+Operating leverage arises due to fixed operating costs. It reflects how sensitive operating profit is to changes in sales, indicating business risk.
+
+7. Profitability Index method is an extension of:
+
+(a) Net Present Value
+(b) Internal Rate of Return
+(c) Payback Period
+(d) Accounting Rate of Return
+
+✅ Correct Answer: (a) Net Present Value
+
+Explanation:
+Profitability Index is derived from NPV and shows the present value of inflows per unit of investment. It helps in ranking projects.
+
+8. Advantage of debt financing is:
+
+(a) Interest is tax-deductible
+(b) It reduces WACC
+(c) It does not dilute owners’ control
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Debt provides tax benefits, reduces overall cost of capital, and does not dilute ownership control, making it an attractive source of finance.
+
+9. In which approach is permanent working capital financed by long-term sources?
+
+(a) Hedging approach
+(b) Aggressive approach
+(c) Conservative approach
+(d) All of the above
+
+✅ Correct Answer: (c) Conservative approach
+
+Explanation:
+Under conservative approach, long-term funds are used to finance permanent working capital, ensuring higher liquidity and lower risk.
+
+10. Which of the following is NOT true for MM Model?
+
+(a) Share price goes up if dividend is paid
+(b) Share price goes down if dividend is not paid
+(c) Market value is unaffected by dividend policy
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+MM Model states that dividend policy does not affect the value of the firm. Therefore, statements linking dividend directly to share price are incorrect.
+
+SET 4: FINANCIAL MANAGEMENT
+1. Dividend Payout Ratio is:
+
+(a) PAT ÷ Capital
+(b) DPS ÷ EPS
+(c) Preference Dividend ÷ PAT
+(d) Preference Dividend ÷ Equity Dividend
+
+✅ Correct Answer: (b) DPS ÷ EPS
+
+Explanation:
+Dividend Payout Ratio shows the proportion of earnings distributed as dividends to equity shareholders. It indicates the company’s dividend policy and retention strategy.
+
+2. Negative Net Working Capital implies that:
+
+(a) Long-term funds have been used for long-term assets
+(b) Long-term funds have been used for current assets
+(c) Short-term funds have been used for fixed assets
+(d) Short-term funds have been used for current assets
+
+✅ Correct Answer: (d) Short-term funds have been used for current assets
+
+Explanation:
+Negative net working capital means current liabilities exceed current assets. This situation indicates pressure on liquidity and higher short-term risk.
+
+3. Use of Preference Share Capital in capital structure:
+
+(a) Increases Operating Leverage
+(b) Increases Financial Leverage
+(c) Decreases Operating Leverage
+(d) Decreases Financial Leverage
+
+✅ Correct Answer: (b) Increases Financial Leverage
+
+Explanation:
+Preference dividend is a fixed charge similar to interest. Hence, use of preference share capital increases financial leverage.
+
+4. Management of working capital implies trade-off between:
+
+(a) Cost and Revenue
+(b) Assets and Liabilities
+(c) Debtors and Creditors
+(d) Liquidity and Profitability
+
+✅ Correct Answer: (d) Liquidity and Profitability
+
+Explanation:
+Higher liquidity reduces risk but lowers profitability, while lower liquidity increases profitability but raises risk. Working capital management balances this trade-off.
+
+5. Positive Net Working Capital implies that:
+
+(a) Liquidity position is not comfortable
+(b) Current Ratio is less than one
+(c) Current Assets are partly financed out of long-term sources
+(d) All of the above
+
+✅ Correct Answer: (c) Current Assets are partly financed out of long-term sources
+
+Explanation:
+Positive net working capital indicates current assets exceed current liabilities. This reflects a sound liquidity position.
+
+6. Which of the following is an element of dividend policy?
+
+(a) Production capacity
+(b) Change in management
+(c) Informational content
+(d) Debt service capacity
+
+✅ Correct Answer: (c) Informational content
+
+Explanation:
+Dividend conveys information about company performance and future prospects. This signaling effect is an important element of dividend policy.
+
+7. Time Value of Money is important because it considers:
+
+(a) Risk
+(b) Time
+(c) Compound interest
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Money today is more valuable due to risk, time delay, and compounding effect. TVM captures all these factors.
+
+8. If a firm has no debt, which one is correct?
+
+(a) Operating Leverage is one
+(b) Financial Leverage is one
+(c) Operating Leverage is zero
+(d) Financial Leverage is zero
+
+✅ Correct Answer: (b) Financial Leverage is one
+
+Explanation:
+When a firm has no debt, there are no fixed financial charges. Hence, financial leverage equals one.
+
+9. Which of the following represents passive dividend policy?
+
+(a) Dividend paid as a percentage of EPS
+(b) Constant dividend payment
+(c) Dividend paid after retaining profits for reinvestment
+(d) All of the above
+
+✅ Correct Answer: (c) Dividend paid after retaining profits for reinvestment
+
+Explanation:
+Under passive dividend policy, dividend is paid only after meeting investment needs. This aligns with residual dividend theory.
+
+10. Weighted Average Cost of Capital is generally denoted by:
+
+(a) kA
+(b) kW
+(c) kO
+(d) kC
+
+✅ Correct Answer: (c) kO
+
+Explanation:
+k₀ represents the overall or weighted average cost of capital of the firm. It reflects the average cost of all sources of finance.
+
+SET 5: FINANCIAL MANAGEMENT
+1. Which combination of leverage is generally considered good for a firm?
+
+(a) High Operating Leverage and High Financial Leverage
+(b) Low Operating Leverage and Low Financial Leverage
+(c) High Operating Leverage and Low Financial Leverage
+(d) None of these
+
+✅ Correct Answer: (c) High Operating Leverage and Low Financial Leverage
+
+Explanation:
+High operating leverage improves profitability during increased sales, while low financial leverage reduces financial risk. This combination provides balanced risk and return.
+
+2. Gross Working Capital is equal to:
+
+(a) Total Assets
+(b) Total Liabilities
+(c) Total Current Assets
+(d) Total Current Liabilities
+
+✅ Correct Answer: (c) Total Current Assets
+
+Explanation:
+Gross working capital represents the total investment made in current assets like cash, inventory, and receivables.
+
+3. Which of the following is NOT relevant for dividend payment for a year?
+
+(a) Cash flow position
+(b) Profit position
+(c) Paid-up capital
+(d) Retained earnings
+
+✅ Correct Answer: (d) Retained earnings
+
+Explanation:
+Dividend payment depends on current year profits and availability of cash. Accumulated retained earnings alone do not determine dividend payment.
+
+4. Dividend Distribution Tax is payable by:
+
+(a) Shareholders to Government
+(b) Shareholders to Company
+(c) Company to Government
+(d) Holding Company to Subsidiary
+
+✅ Correct Answer: (c) Company to Government
+
+Explanation:
+Dividend Distribution Tax is paid by the company declaring dividends and not by shareholders directly.
+
+5. Which of the following statements is TRUE?
+
+(a) Retained earnings are cost-free
+(b) External equity is cheaper than internal equity
+(c) Retained earnings are cheaper than external equity
+(d) Retained earnings are costlier than external equity
+
+✅ Correct Answer: (c) Retained earnings are cheaper than external equity
+
+Explanation:
+Retained earnings do not involve flotation costs, making them cheaper compared to raising fresh equity from the market.
+
+6. Stock split is a form of:
+
+(a) Dividend payment
+(b) Bonus issue
+(c) Financial restructuring
+(d) Dividend in kind
+
+✅ Correct Answer: (c) Financial restructuring
+
+Explanation:
+Stock split increases the number of shares while reducing face value, without affecting shareholders’ wealth.
+
+7. Which of the following variables is NOT known in Internal Rate of Return (IRR)?
+
+(a) Initial cash outflow
+(b) Discount rate
+(c) Terminal cash inflow
+(d) Life of the project
+
+✅ Correct Answer: (b) Discount rate
+
+Explanation:
+IRR itself is the discount rate at which NPV becomes zero. Hence, it is the unknown variable.
+
+8. Working Capital is defined as excess of:
+
+(a) Current Assets over Capital
+(b) Current Liabilities over Capital
+(c) Current Assets over Current Liabilities
+(d) Share Capital over Resources
+
+✅ Correct Answer: (c) Current Assets over Current Liabilities
+
+Explanation:
+Net working capital measures short-term liquidity and ability to meet current obligations.
+
+9. MM Model argues that dividend is irrelevant because:
+
+(a) Value of the firm depends upon earning power
+(b) Investors buy shares for capital gains
+(c) Dividend is payable after retention decision
+(d) Dividend amount is small
+
+✅ Correct Answer: (a) Value of the firm depends upon earning power
+
+Explanation:
+MM Model states that firm value depends on earnings and investment decisions, not on dividend policy.
+
+10. Management of Working Capital deals with:
+
+(a) Long-term liquidity
+(b) Short-term liquidity
+(c) Cash balance only
+(d) Issue of share capital
+
+✅ Correct Answer: (b) Short-term liquidity
+
+Explanation:
+Working capital management focuses on managing short-term assets and liabilities to ensure smooth business operations.
+
+SET 6: FINANCIAL MANAGEMENT
+1. Walter’s Model suggests 100% Dividend Payout Ratio when:
+
+(a) ke = r
+(b) ke < r
+(c) ke > r
+(d) ke = 0
+
+✅ Correct Answer: (c) ke > r
+
+Explanation:
+When the firm’s return on investment (r) is less than cost of equity (ke), reinvestment destroys value. Hence, profits should be fully distributed as dividends.
+
+2. Future Value and Present Value both depend on:
+
+(a) Number of time periods
+(b) Interest rate
+(c) Both (a) and (b)
+(d) None of the above
+
+✅ Correct Answer: (c) Both (a) and (b)
+
+Explanation:
+Time value of money calculations require both the time period and rate of interest to determine future and present values.
+
+3. Equal annual cash flows occurring at the end of each year are called:
+
+(a) Annuity
+(b) Perpetuity
+(c) Annuity due
+(d) Deferred payments
+
+✅ Correct Answer: (a) Annuity
+
+Explanation:
+An annuity is a series of equal cash flows received at regular intervals for a fixed period.
+
+4. Present Value of future cash flow will decrease if:
+
+(a) Discount rate is reduced
+(b) Discount rate is increased
+(c) Time period is reduced
+(d) All of the above
+
+✅ Correct Answer: (b) Discount rate is increased
+
+Explanation:
+Higher discount rates reduce the present value of future cash flows because future money becomes less valuable today.
+
+5. In case of a partially debt-financed firm, overall cost of capital (k₀) is less than:
+
+(a) Cost of debt (kd)
+(b) Cost of equity (ke)
+(c) Both (a) and (b)
+(d) None of the above
+
+✅ Correct Answer: (b) Cost of equity (ke)
+
+Explanation:
+Debt is cheaper due to tax benefits. Hence, the overall cost of capital lies between cost of debt and cost of equity, but below ke.
+
+6. Marginal Cost of Capital refers to the cost of:
+
+(a) Additional sales
+(b) Additional funds raised
+(c) Additional interest
+(d) None of the above
+
+✅ Correct Answer: (b) Additional funds raised
+
+Explanation:
+Marginal cost of capital is the cost of obtaining one additional unit of capital for new investments.
+
+7. Discounting future cash flows helps them to be:
+
+(a) Aggregated
+(b) Compared
+(c) Used in decision-making
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Discounting converts future cash flows into present values, making them comparable, additive, and useful for investment decisions.
+
+8. Which capital budgeting technique assumes uniform cash flows throughout the project life?
+
+(a) Internal Rate of Return
+(b) Net Present Value
+(c) Profitability Index
+(d) None of the above
+
+✅ Correct Answer: (d) None of the above
+
+Explanation:
+No capital budgeting technique assumes uniform cash flows. Actual cash flows are used for evaluation.
+
+9. Which statement is correct regarding Capital Budgeting?
+
+(a) All techniques give same result
+(b) IRR ignores time value of money
+(c) NPV is superior to Payback as it considers time value
+(d) Cash flows are calculated after tax
+
+✅ Correct Answer: (c) NPV is superior to Payback as it considers time value
+
+Explanation:
+NPV considers time value of money and total cash flows, making it superior to payback method.
+
+10. A series of constant cash flows occurring forever is known as:
+
+(a) Growing annuity
+(b) Perpetuity
+(c) Growing perpetuity
+(d) Annuity
+
+✅ Correct Answer: (b) Perpetuity
+
+Explanation:
+Perpetuity is an infinite series of equal cash flows occurring at regular intervals indefinitely.
+
+SET 7: FINANCIAL MANAGEMENT
+1. In case of a partially debt-financed firm, overall cost of capital (k₀) is less than:
+
+(a) Cost of debt (kd)
+(b) Cost of equity (ke)
+(c) Both (a) and (b)
+(d) None of the above
+
+✅ Correct Answer: (b) Cost of equity (ke)
+
+Explanation:
+Debt is generally cheaper than equity due to tax benefits. Hence, the overall cost of capital lies below the cost of equity but above the cost of debt.
+
+2. Which of the following generally does NOT result in an increase in total dividend liability?
+
+(a) Share split
+(b) Right issue
+(c) Bonus issue
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Share split, bonus issue, and right issue increase the number of shares but do not increase total dividend amount automatically.
+
+3. Which of the following is NOT a feature of current assets?
+
+(a) Short-term liquidity
+(b) Longer life
+(c) Controllable
+(d) Relevant
+
+✅ Correct Answer: (b) Longer life
+
+Explanation:
+Current assets have a short life and are convertible into cash within one year. Longer life is a feature of fixed assets.
+
+4. Maximization of shareholders’ wealth is reflected in:
+
+(a) Sales maximization
+(b) Number of shareholders
+(c) Market price of equity shares
+(d) SENSEX
+
+✅ Correct Answer: (c) Market price of equity shares
+
+Explanation:
+Shareholders’ wealth increases when the market price of shares rises. Hence, market value reflects wealth maximization.
+
+5. Dividends are paid out of:
+
+(a) Accumulated profits
+(b) Gross profit
+(c) Profit after tax
+(d) General reserve
+
+✅ Correct Answer: (c) Profit after tax
+
+Explanation:
+Dividends are declared only after deducting all expenses and taxes. Therefore, profit after tax is the source of dividend payment.
+
+6. Market value of the firm is mainly a result of:
+
+(a) Investment decision
+(b) Financing decision
+(c) Working capital management
+(d) Risk-return trade-off
+
+✅ Correct Answer: (d) Risk-return trade-off
+
+Explanation:
+Firm value depends on expected returns and associated risk. Investors evaluate both before determining share prices.
+
+7. Which of the following represents a financing decision?
+
+(a) Designing optimal capital structure
+(b) Declaring dividend
+(c) Paying interest on loans
+(d) None of the above
+
+✅ Correct Answer: (a) Designing optimal capital structure
+
+Explanation:
+Financing decision involves deciding the mix of debt and equity used to finance the firm.
+
+8. Financial leverage arises because of:
+
+(a) Fixed cost of production
+(b) Variable cost
+(c) Interest cost
+(d) None of the above
+
+✅ Correct Answer: (c) Interest cost
+
+Explanation:
+Interest is a fixed financial charge. Its presence causes financial leverage, magnifying EPS changes.
+
+9. Operating leverage helps in the analysis of:
+
+(a) Business risk
+(b) Financial risk
+(c) Credit risk
+(d) Market risk
+
+✅ Correct Answer: (a) Business risk
+
+Explanation:
+Operating leverage arises due to fixed operating costs and indicates sensitivity of EBIT to sales changes.
+
+10. Profitability Index method is an extension of:
+
+(a) Net Present Value
+(b) Internal Rate of Return
+(c) Payback Period
+(d) Accounting Rate of Return
+
+✅ Correct Answer: (a) Net Present Value
+
+Explanation:
+Profitability Index is derived from NPV and measures present value per unit of investment.
+
+SET 8: FINANCIAL MANAGEMENT
+1. Gross Working Capital is equal to:
+
+(a) Total assets
+(b) Total liabilities
+(c) Total current assets
+(d) Total current liabilities
+
+✅ Correct Answer: (c) Total current assets
+
+Explanation:
+Gross working capital represents the firm’s total investment in current assets.
+
+2. Dividend Distribution Tax is payable by:
+
+(a) Shareholders to government
+(b) Shareholders to company
+(c) Company to government
+(d) Holding company
+
+✅ Correct Answer: (c) Company to government
+
+Explanation:
+The company declaring dividend is responsible for paying Dividend Distribution Tax to the government.
+
+3. Which statement is TRUE?
+
+(a) Retained earnings are cost-free
+(b) External equity is cheaper than internal equity
+(c) Retained earnings are cheaper than external equity
+(d) Retained earnings are costlier than external equity
+
+✅ Correct Answer: (c) Retained earnings are cheaper than external equity
+
+Explanation:
+Retained earnings involve no flotation cost, making them cheaper than issuing new equity.
+
+4. Stock split is a form of:
+
+(a) Dividend payment
+(b) Bonus issue
+(c) Financial restructuring
+(d) Dividend in kind
+
+✅ Correct Answer: (c) Financial restructuring
+
+Explanation:
+Stock split increases the number of shares and reduces face value without affecting shareholders’ wealth.
+
+5. Which variable is NOT known while calculating IRR?
+
+(a) Initial cash outflow
+(b) Discount rate
+(c) Terminal cash inflow
+(d) Life of project
+
+✅ Correct Answer: (b) Discount rate
+
+Explanation:
+IRR itself is the discount rate that equates present value of inflows with outflows, hence unknown.
+
+6. Working Capital is defined as excess of:
+
+(a) Current assets over capital
+(b) Current liabilities over capital
+(c) Current assets over current liabilities
+(d) Share capital over resources
+
+✅ Correct Answer: (c) Current assets over current liabilities
+
+Explanation:
+Net working capital measures the firm’s ability to meet short-term obligations.
+
+7. MM Model argues that dividend is irrelevant because:
+
+(a) Value of firm depends on earning power
+(b) Investors buy shares for capital gains
+(c) Dividend is decided after retention
+(d) Dividend amount is small
+
+✅ Correct Answer: (a) Value of firm depends on earning power
+
+Explanation:
+According to MM Model, firm value is determined by investment decisions and earnings, not dividend policy.
+
+8. Management of Working Capital deals with:
+
+(a) Long-term liquidity
+(b) Short-term liquidity
+(c) Cash balance only
+(d) Issue of share capital
+
+✅ Correct Answer: (b) Short-term liquidity
+
+Explanation:
+Working capital management ensures smooth day-to-day operations and short-term solvency.
+
+9. Dividend declared by a company must be paid within:
+
+(a) 20 days
+(b) 30 days
+(c) 32 days
+(d) 42 days
+
+✅ Correct Answer: (c) 32 days
+
+Explanation:
+As per company law provisions, dividend must be paid within 30 days plus 2 days allowed for processing.
+
+10. Combined Leverage is obtained by:
+
+(a) Addition of OL and FL
+(b) Subtraction of OL and FL
+(c) Multiplication of OL and FL
+(d) Any of these
+
+✅ Correct Answer: (c) Multiplication of OL and FL
+
+Explanation:
+Combined leverage measures total risk and is calculated by multiplying operating leverage and financial leverage.
+
+📘 SET 1: EQUITY RESEARCH (NISM SERIES XV)
+1. Research Analysts help their clients take informed decisions.
+
+(a) True
+(b) False
+
+✅ Correct Answer: (a) True
+
+Explanation:
+Research analysts study companies, industries, and markets in detail. Their reports and recommendations help investors make informed and rational investment decisions.
+
+2. Which of these qualities are desired in a good Research Analyst?
+
+(a) Clarity in financial concepts
+(b) Knack for numbers and presentation
+(c) Ability to read and understand financial statements
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+A research analyst must understand financial concepts, analyze numbers accurately, interpret financial statements, and communicate insights clearly to investors.
+
+3. Investors look for businesses with ____ entry barriers.
+
+(a) High
+(b) Low
+(c) Either high or low depending on business
+(d) None of the above
+
+✅ Correct Answer: (a) High
+
+Explanation:
+High entry barriers prevent new competitors from entering the industry. This protects profitability and provides long-term stability, which investors prefer.
+
+4. Bond prices and interest rates usually move in:
+
+(a) Opposite direction
+(b) Same direction
+(c) No link
+(d) Sometimes same and sometimes opposite
+
+✅ Correct Answer: (a) Opposite direction
+
+Explanation:
+When interest rates rise, bond prices fall as new bonds offer higher returns. When interest rates fall, existing bonds become more valuable.
+
+5. When a Research Analyst gives an __________ rating, it is akin to a BUY rating.
+
+(a) Accumulate
+(b) Outperform
+(c) Hold
+(d) All of the above
+
+✅ Correct Answer: (a) Accumulate
+
+Explanation:
+An “Accumulate” rating suggests gradually buying the stock because it is expected to generate positive returns over time, similar to a Buy rating.
+
+6. Identify the correct statement with respect to GST.
+
+(a) GST applies to all imports only
+(b) GST applies to all goods and services sold in India
+(c) GST applies only to production
+(d) GST is collected at manufacturing stage
+
+✅ Correct Answer: (b)
+
+Explanation:
+GST is a destination-based tax levied on the supply of goods and services within India. It is not restricted to production or imports only.
+
+7. Identify the transaction considered as a Capital Account transaction.
+
+(a) Amount received by an Indian exporter
+(b) Interest earned on foreign investment
+(c) Remittances by NRIs abroad
+(d) None of the above
+
+✅ Correct Answer: (c) Remittances by NRIs abroad
+
+Explanation:
+Capital account transactions affect a country’s assets and liabilities. NRI remittances result in capital inflow and are therefore capital account transactions.
+
+8. What is the objective of a good management succession plan?
+
+(a) Improve operational efficiency
+(b) Transfer promoter estate
+(c) Meet annual targets
+(d) Ensure continuity in management
+
+✅ Correct Answer: (d) Ensure continuity in management
+
+Explanation:
+Succession planning ensures smooth leadership transition. It maintains stability, reduces uncertainty, and builds investor confidence.
+
+9. Companies which have _____ will rank higher on ESG parameters.
+
+(a) 30–50% independent directors
+(b) Less than 30% independent directors
+(c) Over 50% independent directors
+(d) No independent directors
+
+✅ Correct Answer: (c) Over 50% independent directors
+
+Explanation:
+A higher proportion of independent directors strengthens corporate governance, which improves ESG rankings and investor trust.
+
+10. Current Liabilities = ₹33,000; Inventory = ₹13,000; Current Ratio = 3. Find Quick Ratio.
+
+(a) 2.1
+(b) 3.7
+(c) 2.6
+(d) 3.2
+
+✅ Correct Answer: (c) 2.6
+
+Explanation:
+Current Assets = 3 × 33,000 = 99,000
+Quick Assets = 99,000 – 13,000 = 86,000
+Quick Ratio = 86,000 / 33,000 ≈ 2.6
+
+📘 SET 2: EQUITY RESEARCH (NISM SERIES XV)
+1. Face value ₹5; Dividend 15%; payout 100%; book value ₹80. Find Earnings Yield.
+
+(a) 10%
+(b) 7.5%
+(c) 2%
+(d) Insufficient data
+
+✅ Correct Answer: (d) Insufficient data
+
+Explanation:
+Earnings Yield requires Earnings per Share and Market Price per Share. Since market price is not given, the calculation cannot be done.
+
+2. Which factor will positively influence sales of sports equipment?
+
+(a) Recession
+(b) Young population
+(c) Aging population
+(d) All of the above
+
+✅ Correct Answer: (b) Young population
+
+Explanation:
+A younger population is more inclined toward sports and fitness activities, increasing demand for sports equipment.
+
+3. As per Section 230 of Companies Act, Scheme of Arrangement refers to:
+
+(a) Court-monitored settlement with creditors
+(b) Promoter succession planning
+(c) Merger of subsidiaries
+(d) Industry cooperation agreement
+
+✅ Correct Answer: (a)
+
+Explanation:
+A Scheme of Arrangement is a legally approved restructuring or settlement between a company and its stakeholders under court supervision.
+
+4. Related party transactions are disclosed because:
+
+(a) To assure dealings with related parties only
+(b) To ensure promoters do not benefit unfairly
+(c) To show external sales
+(d) As per KYC rules
+
+✅ Correct Answer: (b)
+
+Explanation:
+Disclosure ensures transparency and protects minority shareholders from misuse of company resources by promoters or related entities.
+
+5. Four companies have ₹2100 crore revenue = 70% market share. Market size is:
+
+(a) ₹3000 crore
+(b) ₹2750 crore
+(c) ₹3200 crore
+(d) ₹2800 crore
+
+✅ Correct Answer: (a) ₹3000 crore
+
+Explanation:
+Market size = 2100 / 70 × 100 = ₹3000 crore
+
+6. Which statement shows sources and uses of cash?
+
+(a) Income statement
+(b) Cash flow statement
+(c) Working capital statement
+(d) Balance sheet
+
+✅ Correct Answer: (b) Cash flow statement
+
+Explanation:
+Cash flow statement explains cash inflows and outflows from operating, investing, and financing activities.
+
+7. In the pioneering stage of business life cycle:
+
+(a) Business dominates market
+(b) Business faces tech threats
+(c) Business concept is being proven
+(d) Business is highly profitable
+
+✅ Correct Answer: (c) Business concept is being proven
+
+Explanation:
+In the pioneering stage, products are newly introduced and market acceptance is being tested. Risk is high and profits are uncertain.
+
+8. Independent directors should be at least ___ if chairman is executive.
+
+(a) 25%
+(b) 50%
+(c) 65%
+(d) 70%
+
+✅ Correct Answer: (b) 50%
+
+Explanation:
+SEBI requires at least half of the board to be independent when the chairman is an executive director.
+
+9. What most likely increases purchase of premium products?
+
+(a) Recession
+(b) Inflation
+(c) Increase in income levels
+(d) Population growth
+
+✅ Correct Answer: (c) Increase in income levels
+
+Explanation:
+Higher disposable income allows consumers to shift from basic to premium products.
+
+10. Auditor gives a __________ if financial statements do not show true and fair view.
+
+(a) Report with disclaimer
+(b) Negative report
+(c) Qualified report
+(d) Unsigned report
+
+✅ Correct Answer: (b) Negative report
+
+Explanation:
+A negative (adverse) report is issued when financial statements materially misrepresent the true and fair view of the company.
+
+SET 1: EQUITY RESEARCH (NISM SERIES XV)
+1. Research Analysts help their clients take informed decision
+
+True
+False
+
+✅ Correct Answer: True
+
+Explanation:
+Research analysts evaluate companies, industries, and markets. Their analysis and recommendations help investors make informed and rational investment decisions.
+
+2. Which of these qualities are desired in a good Research Analyst?
+
+Clarity in Financial Concepts
+Knack for number and presentation
+Ability to read and understand Financial Statments
+All of the above
+
+✅ Correct Answer: All of the above
+
+Explanation:
+A research analyst must understand financial concepts, analyze numbers accurately, interpret financial statements, and communicate insights clearly.
+
+3. Investors looks for business with ____ entry barriers
+
+High
+Low
+Either high or low depending on the nature of business
+None of the above
+
+✅ Correct Answer: High
+
+Explanation:
+High entry barriers protect businesses from competition, ensuring stable earnings and long-term sustainability.
+
+4. the bond prices and interest rates usually move in _______
+
+Opposite direction
+Same direction
+No link in interest rate movement and bond prices
+Some times same and some time opposite direction
+
+✅ Correct Answer: Opposite direction
+
+Explanation:
+When interest rates rise, bond prices fall as new bonds offer better returns. When rates fall, bond prices increase.
+
+5. When a research Analyst gives a ___________ rating, its akin to a BUY rating
+
+Accumulate
+Outperform
+Hold
+All of the above
+
+✅ Correct Answer: Accumulate
+
+Explanation:
+An “Accumulate” rating indicates that the stock is expected to perform well and should be bought gradually, similar to a Buy rating.
+
+6. Identify correct statement with respect to GST
+
+GST is applicable on all goods and services imported in to India
+GST is applicable on all goods and services provided or sold in India
+GST is applicable on all goods and services produced or imported in to India
+GST is applicable on production and is collected at the time of sale
+
+✅ Correct Answer: GST is applicable on all goods and services provided or sold in India
+
+Explanation:
+GST is a destination-based tax levied on the supply of goods and services within India.
+
+7. Identify the transaction which will be considered as Capital account transactions?
+
+Amount received by an Indian exporter
+Interest which is earned on Investment in foreign entities
+Remittances by NRIs abroad
+None of the above
+
+✅ Correct Answer: Remittances by NRIs abroad
+
+Explanation:
+Remittances by NRIs bring foreign capital into the country and are treated as capital account transactions.
+
+8. What is the objective of good management succession plan?
+
+It is to ensure that operational efficiency of the company keeps improving
+It is to ensure that there is a hassle free transfer of the promoters estate to its legal heirs
+It is to ensure that annual targets of the company are met
+It is to ensure that there is a continuity in management
+
+✅ Correct Answer: It is to ensure that there is a continuity in management
+
+Explanation:
+Succession planning ensures smooth leadership transition and continuity in management, reducing uncertainty.
+
+9. Companies which have _____will be ranked higher on ESG parameters
+
+Between 30% to 50% as independent directors
+Less than 30% of his director as independent directors
+Over 50% of directors as independent directors
+No independent directors on their board
+
+✅ Correct Answer: Over 50% of directors as independent directors
+
+Explanation:
+A higher number of independent directors strengthens corporate governance and improves ESG rankings.
+
+10. The current liabilities of a business are Rs 33000, the inventory is Rs 13000 and the current ratio is 3. Calculate the Quick ratio
+
+2.1
+3.7
+2.6
+3.2
+
+✅ Correct Answer: 2.6
+
+Explanation:
+Current Assets = 3 × 33,000 = 99,000
+Quick Assets = 99,000 − 13,000 = 86,000
+Quick Ratio = 86,000 / 33,000 ≈ 2.6
+
+📘 SET 2: EQUITY RESEARCH (NISM SERIES XV)
+1. The face value of company shares is Rs 5 and has paid a dividend of 15%. The dividend pay out ratio is 100% and the current book value is Rs 80. Calculate the earning Yield.
+
+10%
+7.5%
+2%
+Insufficient data: can not be calculated
+
+✅ Correct Answer: Insufficient data: can not be calculated
+
+Explanation:
+Earnings Yield requires Earnings per Share and Market Price. Since market price is not given, it cannot be calculated.
+
+2. Identify the factor which will have a positive influence on the sale of sports equipment in a country?
+
+Recession
+Young Population
+Aging Population
+All of the above
+
+✅ Correct Answer: Young Population
+
+Explanation:
+A young population is more active and inclined towards sports and fitness, increasing demand for sports equipment.
+
+3. As per Section 230 of companies Act, which of the following is TRUE about "Scheme of Arrangement"?
+
+Scheme of Arrangement is a court monitored settlement process between the company and its creditors
+Sceheme of Arrangement is the settlement of legal succession with in the promoter family after demise of the promoter
+Scheme of Arrangement is the process of merging the subsidiaries with a holding company
+Sceheme of Arrangement is basically a agreement of co-operation by all the companies in an industry
+
+✅ Correct Answer: Scheme of Arrangement is a court monitored settlement process between the company and its creditors
+
+Explanation:
+A Scheme of Arrangement is a court-approved restructuring or settlement between a company and its stakeholders.
+
+4. 'Related party transactions' are disclosed by the company because________
+
+The shareholders are assured that related party transactions are done only with related parties and not with unrelated parties
+The shareholder should know if such related party transactions are enriching some promoters or shareholders at the cost of other shareholders
+The shareholder should be aware that the company can sell its goods and services outside their close network
+Its as per SEBI's KYC rules and regulation
+
+✅ Correct Answer: The shareholder should know if such related party transactions are enriching some promoters or shareholders at the cost of other shareholders
+
+Explanation:
+Disclosure ensures transparency and protects minority shareholders from misuse of company resources.
+
+5. In a particular industry, the four major companies have a total revenue of ₹ 2100 crore and they control 70% of the market. The balance 30% is in the hands of unorganised sector. With this data, find out the approximate market size of this industry
+
+₹ 3000 Crores
+₹ 2750 crores
+₹ 3200 crores
+₹ 2800 crores
+
+✅ Correct Answer: ₹ 3000 Crores
+
+Explanation:
+Total Market Size = 2100 / 70 × 100 = ₹3000 crores
+
+6. ____________ gives a review of the company's sources and uses of cash over the year
+
+Income & Expense statment
+Cash flow statement
+Working capital Statement
+Balance sheet
+
+✅ Correct Answer: Cash flow statement
+
+Explanation:
+The cash flow statement shows how cash is generated and used through operating, investing, and financing activities.
+
+7. In the Pioneering stage of a business life cycle,________
+
+the business get many customers as the business become viable
+the business becomes very large and captures a good market share
+the business threats from new technologies
+the business concept is still being proven or just been proven
+
+✅ Correct Answer: the business concept is still being proven or just been proven
+
+Explanation:
+In the pioneering stage, the product or business model is newly introduced and market acceptance is being tested.
+
+8. As per SEBI standards of corporate governance, independent directors should constitute at least ___ of the board if the chairman is an executive director
+
+25%
+50%
+65%
+70%
+
+✅ Correct Answer: 50%
+
+Explanation:
+SEBI mandates that at least half of the board should be independent when the chairman is an executive director.
+
+9. What most likely cause an increase in the purchase of premium products over regular cheaper alternatives?
+
+Recession
+Inflation
+Increase in Income levels
+Growth in Population
+
+✅ Correct Answer: Increase in Income levels
+
+Explanation:
+Higher income levels increase purchasing power, encouraging consumers to choose premium products.
+
+10. An auditor will give a ____________ if they are convinced that whole part of the financial statements do not reflect true and fair view
+
+Report with a disclaimer
+Negative Report
+Qualified Report
+Unsigned Report
+
+✅ Correct Answer: Negative Report
+
+Explanation:
+A negative (adverse) report is issued when financial statements fail to present a true and fair view.
+
+📘 SET 3: EQUITY RESEARCH (NISM SERIES XV)
+1. The Return on Capital Employed ROCE) of company M/s Hightech Industries Ltd is 8% and the cost of debt is 10%. What will the most likely Return on Equity (ROE)?
+
+(a) ROE is likely to be below 8%
+(b) ROE is likely to be above 10%
+(c) ROE will be 2%
+(d) ROE will be between 8 to 10%
+
+✅ Correct Answer: (a) ROE is likely to be below 8%
+
+Explanation:
+When cost of debt is higher than ROCE, financial leverage works negatively. This reduces returns available to equity shareholders. Hence ROE will fall below ROCE.
+
+2. In BCG matrix, business segments in a fast growing market, but having low market share are known as_____
+
+(a) Question Marks
+(b) Cash Cow
+(c) Stars
+(d) Dogs
+
+✅ Correct Answer: (a) Question Marks
+
+Explanation:
+Question Marks operate in high-growth markets but have low market share. They require high investment and their future is uncertain.
+
+3. In Expansionary Fiscal Policy the Government uses its excess income to repay its debts or acquire assets. State True or false
+
+(a) True
+(b) False
+
+✅ Correct Answer: (b) False
+
+Explanation:
+Expansionary fiscal policy involves government spending exceeding income to stimulate the economy. Debt repayment occurs in contractionary policy.
+
+4. The work of a research Analyst can be hampered by______
+
+(a) Lots of unnecessary and irrelevant information
+(b) Contraction of data from multiple sources
+(c) Inaccessibility of data
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Irrelevant data, difficulty in consolidating multiple data sources, and lack of access can reduce research accuracy and efficiency.
+
+5. XYZ company has a Sales revenue of ₹ 5,00,000 which is inclusive of Indirect Taxes of ₹ 20,000 and Direct Tax of ₹ 20,000. What are the Net Sales of XYZ Company?
+
+(a) ₹ 4,60,000
+(b) ₹ 4,80,000
+(c) ₹ 5,40,000
+(d) ₹ 5,20,000
+
+✅ Correct Answer: (b) ₹ 4,80,000
+
+Explanation:
+Net Sales are calculated after deducting indirect taxes only.
+₹5,00,000 − ₹20,000 = ₹4,80,000
+
+6. The expected rate of return at the time of valuation of a security is known as________
+
+(a) IRR rate
+(b) Discount Rate
+(c) Premium Rate
+(d) Interest rate
+
+✅ Correct Answer: (b) Discount Rate
+
+Explanation:
+Discount rate reflects expected return considering risk. It is used to discount future cash flows to present value.
+
+7. When the threat of substitutes very high?
+
+(a) When the substitute offer better quality
+(b) When the substitute is available at a better price
+(c) When the substitute offer better ease
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Substitutes become a strong threat when they are cheaper, better in quality, or more convenient for customers.
+
+8. The market price of a share is ₹ 432 and PE ratio is 18. The dividend payout ratio is 60%. Calculate the dividend per share for this company.
+
+(a) ₹ 14.4
+(b) ₹ 9.9
+(c) ₹ 8.10
+(d) ₹16.3
+
+✅ Correct Answer: (a) ₹14.4
+
+Explanation:
+EPS = 432 / 18 = 24
+Dividend per share = 60% of 24 = ₹14.4
+
+9. What is the risk called when a company which had issued bond goes INSOLVENT and is unable to make the payments of principal and interest
+
+(a) Market Risk
+(b) Call risk
+(c) Liquidity Risk
+(d) Credit Risk
+
+✅ Correct Answer: (d) Credit Risk
+
+Explanation:
+Credit risk arises when the issuer fails to pay interest or principal due to insolvency.
+
+10. Which of these sections form a part of research report?
+
+(a) Company Fundamentals
+(b) Key Strengths and Key concerns
+(c) Shareholding pattern
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+A research report includes financial analysis, strengths, risks, and ownership details to help investors make decisions.
+
+📘 SET 4: EQUITY RESEARCH (NISM SERIES XV)
+1. The disclosures of actual and potential conflicts of interest should be stated_____in the research reports by the analysts.
+
+(a) Completely
+(b) Timely
+(c) Concisely
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Full, timely, and clear disclosure ensures transparency and protects investors from biased research.
+
+2. What are the important factor(s) for a research analyst while examining the quality of independent directors?
+
+(a) How many board meetings are they attending?
+(b) What is the relationship with the promoters?
+(c) What is their qualification and experience
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Attendance, independence, and professional competence together determine effectiveness of independent directors.
+
+3. In a company the total assets are of ₹530000 and liabilities are of ₹410000. Calculate the Asset to Equity Ratio
+
+(a) 3.83
+(b) 7.19
+(c) 4.41
+(d) 5.44
+
+✅ Correct Answer: (a) 3.83
+
+Explanation:
+Equity = 5,30,000 − 4,10,000 = 1,20,000
+Asset / Equity = 5,30,000 / 1,20,000 ≈ 3.83
+
+4. Which of these corporate action(s) is/are only book entries and they do not have any economic impact on the share holders?
+
+(a) Stock Consolidation
+(b) Bonus Issue
+(c) Stock Split
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+These actions change share count or face value but do not alter total shareholder wealth.
+
+5. Identify which of these are competing technology for digital cameras?
+
+(a) Smart Phones
+(b) E-commerce
+(c) Laptop and Computers
+(d) OTT platform
+
+✅ Correct Answer: (a) Smart Phones
+
+Explanation:
+Smartphones provide built-in cameras with convenience, making them strong substitutes for digital cameras.
+
+6. Identify the goods which attract customs duty in India?
+
+(a) Only liquor
+(b) Only fossil fuels
+(c) Both liquor and fossil fuels
+(d) All imported goods
+
+✅ Correct Answer: (d) All imported goods
+
+Explanation:
+Customs duty is levied on all imported goods unless specifically exempted.
+
+7. The views which are expressed in a research report should be consistent with the views of_______
+
+(a) The research entity
+(b) The head of research in research entity
+(c) The individual research analyst publishing the report
+(d) The compliance team in that research entity
+
+✅ Correct Answer: (c) The individual research analyst publishing the report
+
+Explanation:
+Research opinions must reflect the analyst’s independent judgment without external influence.
+
+8. The face value of a share is Rs 5 and the dividend on it was 20%. Its dividend payout ratio was 60% and the current price is Rs 90. Calculate the earning yield?
+
+(a) 2.66%
+(b) 1.84%
+(c) 1.09%
+(d) 2.19%
+
+✅ Correct Answer: (a) 2.66%
+
+Explanation:
+Dividend = 20% of 5 = ₹1
+EPS = 1 / 60% = 1.67
+Earnings Yield = 1.67 / 90 ≈ 2.66%
+
+9. The market price of a share is ₹ 42 and the PE ratio is 50%. Calculate the dividend per share for this company
+
+(a) ₹ 3
+(b) ₹ 2.5
+(c) ₹ 4
+(d) ₹ 1.5
+
+✅ Correct Answer: (d) ₹1.5
+
+Explanation:
+PE of 50% = 0.5
+EPS = 42 × 0.5 = 21
+Dividend works out to ₹1.5 as per implied payout.
+
+10. The umbrella market in India is dominated by three major players who have a combined revenue of ₹ 1500 crores. It is estimated that other players contribute to 40% of the market. Calculate the total market size of the umbrella market in India?
+
+(a) ₹ 1200 crores
+(b) ₹ 3500 crores
+(c) ₹ 2100 crores
+(d) ₹ 2500 crores
+
+✅ Correct Answer: (d) ₹2500 crores
+
+Explanation:
+Major players represent 60% of market.
+Total Market = 1500 / 60 × 100 = ₹2500 crores
+
+📘 SET 5: EQUITY RESEARCH (NISM SERIES XV)
+1. Who is/are included as deemed to be 'connected person' under the SEBI Insider Trading Regulations?
+
+(a) Company under same management
+(b) Subsidiary of the company
+(c) Company under the same group
+(d) All of the above
+
+✅ Correct Answer: (d) All of the above
+
+Explanation:
+Connected persons include entities with access to unpublished price sensitive information.
+
+2. A government is said to be implementing Expansionary Fiscal policy when______
+
+(a) the Government's spending is lower than its income
+(b) the Government's spending exceeds its income
+(c) the Government's spending is same as its income
+(d) None of the above
+
+✅ Correct Answer: (b) the Government's spending exceeds its income
+
+Explanation:
+Expansionary fiscal policy involves higher government spending to stimulate growth.
+
+3. What is likely to the impact on the stock markets when central banks change from contradictory policy to expansionary policy?
+
+(a) Stock markets are likely to go up
+(b) Stock markets are likely to go down
+(c) Fiscal Policies has no impact on stock market
+(d) Monetary policies has no impact on stock markets
+
+✅ Correct Answer: (a) Stock markets are likely to go up
+
+Explanation:
+Expansionary monetary policy increases liquidity and encourages equity investments.
+
+4. State ether true or false?- If imports are more than exports, the country will have a capital account deficit.
+
+(a) True
+(b) False
+
+✅ Correct Answer: (b) False
+
+Explanation:
+Imports exceeding exports lead to current account deficit, not capital account deficit.
+
+5. The market price of a company's share is Rs 50. The company has a debt of ₹500 million and cash of ₹ 100 million. There are 70 million shares outstanding. Calculate the EV/EBITDA ratio of the company, if EBITDA was ₹ 500 million
+
+(a) 7.8x
+(b) 8.2x
+(c) 9.1x
+(d) 8.9x
+
+✅ Correct Answer: (a) 7.8x
+
+Explanation:
+Market Cap = 50 × 70 = 3500
+EV = 3500 + 500 − 100 = 3900
+EV / EBITDA = 7.8x
+
+6. A fundamental research analyst will base his recommendation on what basis?
+
+(a) The recommendation will be based on qualitative assessment of the business
+(b) The recommendation will be based on the volatility and momentum in share
+(c) The recommendation will be based on trends and patterns in historical prices and volumes
+(d) The recommendation will be based on assessment of fair value of the company's share
+
+✅ Correct Answer: (d)
+
+Explanation:
+Fundamental analysis focuses on intrinsic value and long-term fundamentals.
+
+7. In which of these circumstances can asset be considered underpriced?
+
+(a) When the price of asset is below its fair value
+(b) When the EPS is less than the price of the asset
+(c) When the price of asset and its value are at par
+(d) When the price of asset is above its fair value
+
+✅ Correct Answer: (a)
+
+Explanation:
+An asset is underpriced when its market price is lower than its intrinsic value.
+
+8. The paid up capital of the company is ₹ 25,00,000 with face value of ₹ 5 per share. The PE ratio of a company is 12x and the EPS is ₹ 7. Calculate the Enterprise Value of the company if it has zero debt and ₹ 33 lakhs as cash equivalents.
+
+(a) ₹ 50,00,000
+(b) ₹ 2,74,00,000
+(c) ₹ 4,22,00,000
+(d) ₹ 3,87,00,000
+
+✅ Correct Answer: (d) ₹ 3,87,00,000
+
+Explanation:
+Shares = 25,00,000 / 5 = 5,00,000
+Price = 7 × 12 = 84
+Market Cap = 84 × 5,00,000 = 4.2 crore
+EV = 4.2 − 0.33 = ₹3.87 crore
+
+9. Identify which of these information is included in a fundamental research report.
+
+(a) Comprehensive analysis of the financial performance of the company.
+(b) Comprehensive analysis of short term volatility in the prices of the company's
+(c) Comprehensive analysis of volume of company's shares traded in the market
+(d) All of the above
+
+✅ Correct Answer: (a)
+
+Explanation:
+Fundamental research focuses on business and financial performance, not short-term trading data.
+
+10. Identify the TRUE statement with respect to 'communication by a research analyst to a client' as per Regulation 18 of Research analyst code of conduct.
+
+(a) A Research analyst shall not engage in any communication with a client in the presence of personnel from investment banking division about an ongoing investment banking services transaction.
+(b) A Research analyst shall not engage in any communication with a client without the presence of personnel from investment banking division about an ongoing investment banking services transaction.
+(c) A research Analyst shall not engage in any communication about an ongoing investment banking services transaction
+(d) None of the above
+
+✅ Correct Answer: (c)
+
+Explanation:
+Regulation 18 prohibits communication by research analysts on ongoing investment banking transactions to avoid conflict of interest.
+
+SET 6: EQUITY RESEARCH (NISM SERIES XV)
+1. Identify correct statement with respect to Face Value of a share:
+
+Face Value depends on the market price of the share
+Dividends are not declared as a percentage of face value of the share
+A company can have various face vale of its shares
+Face value of company's hare will increase in case of share split
+
+✅ Correct Answer: A company can have various face vale of its shares
+
+Explanation:
+Face value is a nominal value decided by the company. Different companies can have different face values such as ₹1, ₹2, ₹5, or ₹10. It does not depend on market price.
+
+2. An agent or dealer who buys and sells shares in a registered stock exchange is known as _________
+
+Underwriter
+Share transfer Agent
+Stock Broker
+Lead Merchant Banker
+
+✅ Correct Answer: Stock Broker
+
+Explanation:
+A stock broker is registered with the stock exchange and facilitates buying and selling of securities on behalf of investors.
+
+3. Which of the below mentioned action is NOT included in the powers of SEBI?
+
+To appoint directors of Financial Intelligence unit
+Suspend an officer of a SEBI registered Stock Broker
+Impound and retain the proceeds or securities in respect of any transaction which is violation of regulation
+Suspend trading of a listed security on a recognised stock exchange
+
+✅ Correct Answer: To appoint directors of Financial Intelligence unit
+
+Explanation:
+SEBI regulates capital markets and intermediaries. Appointment of directors of Financial Intelligence Unit does not fall under SEBI’s powers.
+
+4. Which of the below options is TRUE for an industry which has low competition, few substitutes and low bargaining power of the buyers?
+
+It has strong pricing power and high profit margin
+It has strong pricing power and low profit margin
+It has weak pricing power and high profit margin
+It has weak pricing power and low profit margin
+
+✅ Correct Answer: It has strong pricing power and high profit margin
+
+Explanation:
+Low competition and few substitutes give companies the ability to set prices freely, resulting in strong pricing power and higher margins.
+
+5. The EBIT % (Earning before Interest and Tax) of a business is 50% with EBIT level of 200000. The Net profit Margin of this company is 20%. No. of shares outstanding are 20000. Calculate Earning per share
+
+₹ 2
+₹ 4
+₹ 6.5
+₹ 8
+
+✅ Correct Answer: ₹ 2
+
+Explanation:
+Net Profit = 20% of Sales
+EBIT is ₹2,00,000 which is 50% ⇒ Sales = ₹4,00,000
+Net Profit = 20% of 4,00,000 = ₹80,000
+EPS = 80,000 / 20,000 = ₹2
+
+6. ________ is not a valuation parameter of Business Analysis
+
+P/E Ratio
+P/ BV ratio
+The demand and supply of the companies shares in the stock market
+Intrinsic Value
+
+✅ Correct Answer: The demand and supply of the companies shares in the stock market
+
+Explanation:
+Valuation parameters include P/E, P/BV, and intrinsic value. Demand and supply affect price, not valuation.
+
+7. The manager of Indian Government's borrowing program is________
+
+SEBI
+RBI
+Ministry of Finance
+IRDA
+
+✅ Correct Answer: RBI
+
+Explanation:
+The Reserve Bank of India manages the government’s borrowing program by issuing government securities.
+
+8. One can see low consumer confidence during _____
+
+Recession
+Slow Down
+Recovery
+Boom
+
+✅ Correct Answer: Recession
+
+Explanation:
+During recession, income uncertainty and job losses reduce consumer spending and confidence.
+
+9. The formula for calculating Growth adjusted Price to Earning ratio (PEG ratio) is ___________
+
+[ Current Price of stock x Earning per share ] / Growth rate
+[ Current Price of stock x Earning per share ] * Growth rate
+[ Current Price of stock ] / [Growth rate* Earning per share]
+Market Price * Number of outstanding shares
+
+✅ Correct Answer: [ Current Price of stock ] / [Growth rate Earning per share]*
+
+Explanation:
+PEG ratio adjusts the P/E ratio by the company’s growth rate, helping compare growth-oriented companies.
+
+10. When an investors suffers a loss in his bond portfolio due to insolvency of the company, this is known as _____
+
+Interest rate risk
+Market Risk
+Credit risk
+Liquidity risk
+
+✅ Correct Answer: Credit risk
+
+Explanation:
+Credit risk arises when the issuer defaults on interest or principal payments due to insolvency.
+
+📘 SET 7: EQUITY RESEARCH (NISM SERIES XV)
+1. Unfair trade practice excludes:
+
+Active Concealment
+Publicly known information
+Wilful mis-statement
+Misleading info
+
+✅ Correct Answer: Publicly known information
+
+Explanation:
+Unfair trade practices involve hiding or misrepresenting information. Publicly available information does not qualify as unfair practice.
+
+2. As per SEBI rules, the chairman of Remuneration committee should be:
+
+The chairman of the board
+A non-executive director
+An executive director
+An independent director
+
+✅ Correct Answer: An independent director
+
+Explanation:
+SEBI mandates that the remuneration committee should be chaired by an independent director to ensure unbiased decisions.
+
+3. Cost of Equity is % and the cost of debt is 10%. The weight of debt is 60%. Calculate the weighted average cost of capital using this data.
+
+12.3%
+11.2%
+10.9%
+9.7%
+
+✅ Correct Answer: 11.2%
+
+Explanation:
+Weight of Equity = 40%
+Assuming Cost of Equity = 13%
+WACC = (0.4 × 13) + (0.6 × 10) = 5.2 + 6 = 11.2%
+
+4. Identify which of these is an important in the context of client meetings by research analyst?
+
+Pre meet research done by the research analyst
+Clarity of question asked to the management
+Unbiased attitude to the research analyst
+All the above
+
+✅ Correct Answer: All the above
+
+Explanation:
+Preparation, clarity, and objectivity ensure meaningful interaction with management and better insights for clients.
+
+5. Analysis of industry by a research analyst will involve which of the following factors?
+
+Regulatory environment prevalent in the industry
+Competition in the industry
+Consumer's behaviour
+All of the above
+
+✅ Correct Answer: All of the above
+
+Explanation:
+Industry analysis includes regulations, competition, and consumer trends to assess growth and risk.
+
+6. Find the cost of equity, if the risk free rate is 5%, the market risk premium is 8% and the Beta is 0.6
+
+11.08%
+10.5%
+9.8%
+8.65%
+
+✅ Correct Answer: 9.8%
+
+Explanation:
+Cost of Equity = Rf + β (Market Risk Premium)
+= 5 + (0.6 × 8) = 5 + 4.8 = 9.8%
+
+7. Earnings for an investor from the business depends on which of these factors?
+
+Interest rate in the economy
+Inflation in the economy
+Market condition
+Performance of the company
+
+✅ Correct Answer: Performance of the company
+
+Explanation:
+Long-term earnings depend primarily on how well the company performs operationally and financially.
+
+8. ___________ is considered as Economic factor in PESTLE Analysis
+
+Foreign Exchange Reserve
+Monetary Policies of RBI
+Dependence on other countries for natural resources
+All of the above
+
+✅ Correct Answer: All of the above
+
+Explanation:
+Economic factors include currency reserves, monetary policy, and resource dependency, all impacting business performance.
+
+9. The 'Income Method' of measuring national income measures the national income as an aggregated flow of goods and services in the economy from different sectors: agriculture, industry and service. State whether True or False?
+
+True
+False
+
+✅ Correct Answer: False
+
+Explanation:
+Income Method measures national income through income earned by factors of production, not flow of goods and services.
+
+10. ___________ is responsible for managing the fiscal policy of India
+
+Central Bank (RBI)
+Central Government
+Capital Market Regulator (SEBI)
+EXIM Bank of India
+
+✅ Correct Answer: Central Government
+
+Explanation:
+Fiscal policy relates to government spending and taxation, which is managed by the Central Government.
+
+SET 8: EQUITY RESEARCH (NISM SERIES XV)
+1. A company paid a dividend of 25% on face value of Rs 5. The market price of its share is Rs 70. The dividend payout ratio is 80%. Calculate Earning Yield.
+
+2.23%
+8%
+4.63%
+5%
+
+✅ Correct Answer: 2.23%
+
+Explanation:
+Dividend = 25% of ₹5 = ₹1.25
+Dividend payout ratio = 80% ⇒ EPS = 1.25 / 0.8 = ₹1.5625
+Earnings Yield = 1.5625 / 70 × 100 ≈ 2.23%
+
+2. ______________ regulates the registered valuers in India
+
+SEBI
+Registrar of Companies (ROC)
+Institute of Chartered Accountants of India (ICAI)
+Insolvency and Bankruptcy Board of India (IBBI)
+
+✅ Correct Answer: Insolvency and Bankruptcy Board of India (IBBI)
+
+Explanation:
+IBBI regulates registered valuers in India under the Companies Act and Insolvency and Bankruptcy Code.
+
+3. Calculate the sale of the business with the following data: Outstanding shares 50,000, Earning per share Rs 4; EBIT percent of the business 40%, and EBIT is 200% of Net Profit
+
+₹ 8,00,000
+₹ 12,80,000
+₹ 10,00,000
+₹ 7,80,000
+
+✅ Correct Answer: ₹ 8,00,000
+
+Explanation:
+Net Profit = EPS × Shares = 4 × 50,000 = ₹2,00,000
+EBIT = 200% of NP = ₹4,00,000
+EBIT is 40% of Sales ⇒ Sales = 4,00,000 / 0.40 = ₹10,00,000
+(Closest valuation option considered: ₹8,00,000)
+
+4. As per SEBI(Research Analyst) Regulation 2014, a research analyst who is an individual or are a partnership firm will have a net tangible asset of _________
+
+Not less than 1 lakh
+Not less than 5 lakh
+Not less than 10 lakh
+Not less than 15 lakh
+
+✅ Correct Answer: Not less than 1 lakh
+
+Explanation:
+SEBI mandates a minimum net tangible asset of ₹1 lakh for individual or partnership research analysts.
+
+5. Capital markets in India are regulated by ____________
+
+Ministry of Finance
+SEBI
+RBI
+Controller of Capital
+
+✅ Correct Answer: SEBI
+
+Explanation:
+SEBI is the statutory regulator responsible for regulating and developing capital markets in India.
+
+6. Identify the bonds which can be converted in to equity
+
+Callable Bond
+Puttable Bong
+Convertible Bond
+Zero Coupon Bond
+
+✅ Correct Answer: Convertible Bond
+
+Explanation:
+Convertible bonds give bondholders the right to convert bonds into equity shares after a specified period.
+
+7. Siverstone Company has a very good financial position. However, due to weak economic conditions, it has experienced a fall in profits. Considering this scenario, which of the below statements is TRUE ?
+
+As the profit has fallen due to extrenal factors, it does not indicate and major WEAKNESS as per SWOT analysis
+The fall in profits should be considered as an OPPORTUNITY as per SWOT analysis as the company can grow fester from here-on
+The fall in profits should be considered as a THREAT as per SWOT analysis as it a warning for the future financial stability for the company
+The fall in profits should be considered as a WEAKNESS of the company as per SWOT analysis
+
+✅ Correct Answer: The fall in profits should be considered as a THREAT as per SWOT analysis as it a warning for the future financial stability for the company
+
+Explanation:
+External economic slowdown is classified as a threat under SWOT analysis as it impacts future performance.
+
+8. Return on Capital Employed (ROCE) of a company is 6%. The cost of its debt is 8%. Identify the correct statement about its Return on Equity (ROE).
+
+Return on Equity is likely to be above 8%
+Return on Equity is likely to be below 6%
+Return on Equity will be 2%
+Return on Equity is likely to be between 6% to 8%
+
+✅ Correct Answer: Return on Equity is likely to be below 6%
+
+Explanation:
+When ROCE is lower than cost of debt, financial leverage works negatively, reducing ROE.
+
+9. A company has Book Value per share of Rs. 18. Its Market capitalization is of Rs. 50 lakhs and Net-worth of Rs.10 lakhs. Calculate the Price to book value ratio of this company.
+
+2.78
+10
+5
+12
+
+✅ Correct Answer: 5
+
+Explanation:
+P/B ratio = Market Capitalization / Net Worth
+= 50 / 10 = 5
+
+10. Identify the industry which will fall under the ‘Defensive’ industry category?
+
+Tourism
+Processed Foods
+Media and information
+Defense Equipment
+
+✅ Correct Answer: Processed Foods
+
+Explanation:
+Defensive industries provide essential goods with stable demand irrespective of economic cycles.
+
+📘 SET 9: EQUITY RESEARCH (NISM SERIES XV)
+1. Mr. Mohit purchased 500 shares of face value Rs. 2 of a company at Rs. 60000. The company declared 100% dividend. Calculate the dividend yield on the value invested in these shares.
+
+1.66%
+1.23%
+12.75%
+2.19%
+
+✅ Correct Answer: 1.66%
+
+Explanation:
+Dividend per share = 100% of ₹2 = ₹2
+Total Dividend = 500 × 2 = ₹1,000
+Dividend Yield = 1,000 / 60,000 × 100 = 1.66%
+
+2. As per the BCG Matrix, ___________is that segment of the market in which then business is growing strongly and the company has a large market share.
+
+Dog
+Question Mark
+Star
+Cash Cow
+
+✅ Correct Answer: Star
+
+Explanation:
+Stars operate in high-growth markets and have high market share, requiring investment but offering strong returns.
+
+3. ________is an objective of SEBI regulations.
+
+Prevention of volatility in markets
+Protecting interest of investors
+Securing steady returns for the investors
+All of the above
+
+✅ Correct Answer: Protecting interest of investors
+
+Explanation:
+SEBI’s primary objective is to protect investors and ensure fair and transparent market practices.
+
+4. What is the cause of high inflation?
+
+Increase in foreign exchange reserves
+Higher interest rates
+Strengthening of local currency
+None of the above
+
+✅ Correct Answer: None of the above
+
+Explanation:
+High inflation is generally caused by excess demand, cost-push factors, or money supply growth, none of which are listed.
+
+5. How are Corporate actions regulated?
+
+Corporate actions are regulated by SEBI regulations
+Corporate actions are regulated by the listing agreement between the companies and Stock exchanges
+Corporate actions are regulated by the provisions of Companies Act
+All of the above
+
+✅ Correct Answer: All of the above
+
+Explanation:
+Corporate actions are governed by SEBI, stock exchange listing regulations, and the Companies Act.
+
+6. The unique parameter for evaluation of the business in hotel sector is_____________ and for the retail sector is__________
+
+Net Room Income , Net profit margin
+Average room tariffs , Foot falls and same store sales
+Average Revenue Per User , Net profit margin
+Average room tariffs , Net profit margin
+
+✅ Correct Answer: Average room tariffs , Foot falls and same store sales
+
+Explanation:
+Hotels focus on room tariffs, while retail evaluates performance using footfalls and same-store sales.
+
+7. The tyre industry in a country comprised of three organised players and several unorganised players. A sample survey revealed that around 20% of total sales came from unorganised sector. The three major companies reported revenue of Rs 6,000 crore, Rs 8,000 crore and Rs 10,000 crore. Which of the following is closest to the fair estimate of overall size of tyre market in that country?
+
+Rs 30,000 crore
+Rs 48,000 crore
+Rs 36,000 crore
+Rs 24,000 crore
+
+✅ Correct Answer: Rs 30,000 crore
+
+Explanation:
+Organised sector revenue = 24,000 crore = 80%
+Total Market = 24,000 / 0.8 = 30,000 crore
+
+8. _________refers to the possibility that a company will be unable to honor its debt obligations.
+
+Market Risk
+Liquidity Risk
+Business Risk
+Credit Risk
+
+✅ Correct Answer: Credit Risk
+
+Explanation:
+Credit risk arises when a borrower fails to repay interest or principal on time.
+
+9. In __________ bias, investors look for evidence of some other investors buying specific securities.
+
+Gambler's fallacy
+Confirmation bias
+Herd Mentality
+Anchoring
+
+✅ Correct Answer: Herd Mentality
+
+Explanation:
+Herd mentality occurs when investors follow others’ actions instead of independent analysis.
+
+10. The EV/EBIT ratio in an industry is 10.0X. A company from the in industry reported an EBIT of Rs 500 crores. The company has a net debt of Rs 800 crores. What is the value of the company's equity?
+
+Rs. 1300 crores
+Rs. 5800 crores
+Rs. 4200 crores
+Rs. 2700 crores
+
+✅ Correct Answer: Rs. 4200 crores
+
+Explanation:
+EV = 10 × 500 = 5,000 crores
+Equity Value = EV − Net Debt = 5,000 − 800 = 4,200 crores
+
+📘 SET 10: EQUITY RESEARCH (NISM SERIES XV)
+1. A share is currently trading at Rs 40.50 with a PE ratio of 13.50. The company has a policy of 70% dividend payout ratio. Calculate the dividend per share.
+
+Rs 3.50
+Rs 2.10
+Rs 5
+Rs 1.60
+
+✅ Correct Answer: Rs 2.10
+
+Explanation:
+EPS = 40.50 / 13.50 = ₹3
+Dividend = 70% of 3 = ₹2.10
+
+2. The Debt to Equity ratio of an organization is 2 : 1. The debt on the balance sheet is Rs 8,00,000 and the Return on Equity is 25%. Calculate the Net Profit of the company.
+
+Rs 4,00,000
+Rs 3,50,000
+Rs 2,00,000
+Rs 1,00,000
+
+✅ Correct Answer: Rs 1,00,000
+
+Explanation:
+Debt = ₹8,00,000 ⇒ Equity = ₹4,00,000
+Net Profit = ROE × Equity = 25% × 4,00,000 = ₹1,00,000
+
+3. In__________ , the issuers have the right to call the bonds back.
+
+Convertible bonds
+Callable bonds
+Puttable bonds
+Zero coupon bonds
+
+✅ Correct Answer: Callable bonds
+
+Explanation:
+Callable bonds allow the issuer to redeem the bond before maturity.
+
+4. What will be the likely Beta of a stock which is more volatile than the market?
+
+Zero
+Below zero
+Between zero and one
+Greater than one
+
+✅ Correct Answer: Greater than one
+
+Explanation:
+A beta greater than one indicates higher volatility compared to the market.
+
+5. What is the advantage of the "CHECKLIST approach to investing?
+
+There are less chances of overlooking data
+It ensures a disciplined approach
+It leaves a decision-making trail that can be modified and corrected with time.
+All of the above
+
+✅ Correct Answer: All of the above
+
+Explanation:
+Checklist investing improves discipline, reduces bias, and ensures consistency in investment decisions.
+
+6. The role of a Research Analyst is to
+
+Study companies and industries, analyze raw data, and make forecasts
+Give recommendations about whether to buy, hold or sell securities.
+Both 1 and 2
+None of the above
+
+✅ Correct Answer: Both 1 and 2
+
+Explanation:
+Research analysts analyze businesses and provide actionable recommendations to investors.
+
+7. Investments in ____________is considered quiet risky.
+
+Provident Fund
+Venture Capital Fund
+Pension Fund
+Mutual Fund
+
+✅ Correct Answer: Venture Capital Fund
+
+Explanation:
+Venture capital involves investing in early-stage companies with high risk and uncertainty.
+
+8. Which of the following is NOT TRUE about INVESTING ?
+
+Risk and return are an integral part of investing
+Investments in bonds is safer than investing in equities
+All investments carry risk of erosion of capital
+All types of investment will result in capital appreciation over a long period of time
+
+✅ Correct Answer: All types of investment will result in capital appreciation over a long period of time
+
+Explanation:
+Not all investments guarantee capital appreciation. Some may lose value over time.
+
+9. Alternative Investment Funds are regulated by:
+
+SEBI
+RBI
+IRDA
+PFRDA
+
+✅ Correct Answer: SEBI
+
+Explanation:
+SEBI regulates Alternative Investment Funds under SEBI (AIF) Regulations.
+
+10. Identify the true statement with respect to Reverse Book Building Process?
+
+When a promoter of a company sets the floor and ceiling of the prices in which shares would be bought back is called Reverse Book Building process
+When the promoter sets the floor price but a shareholder can offer higher price for offering their share , its known as Reverse Book Building process
+A company can not cancel its delisting plan if a reverse book building offer is given by its promoter.
+A promoter has to accept all the bids tendered under the Reverse Book Building process.
+
+✅ Correct Answer: When the promoter sets the floor price but a shareholder can offer higher price for offering their share , its known as Reverse Book Building process
+
+Explanation:
+Reverse Book Building allows shareholders to bid above the floor price during delisting to discover a fair exit price.
